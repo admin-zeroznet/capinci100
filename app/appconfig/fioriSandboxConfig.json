@@ -1,0 +1,477 @@
+{
+	"services": {
+		"LaunchPage": {
+			"adapter": {
+				"config": {
+					"groups": [
+						{
+							"id": "bestpractices",
+							"title": "bestpractices",
+							"isPreset": true,
+							"isVisible": true,
+							"isGroupLocked": false,
+							"tiles": [
+								{
+									"id": "BPRLOB_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "BPRLOB_LST",
+										"title": "Lobs",
+										"info": "BPRLOB_LST",
+										"targetURL": "#BPRLOB_LST-start",
+										"icon": "sap-icon://sap-logo-shape"
+									}
+								},
+								{
+									"id": "BPRBAR_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "BPRBAR_LST",
+										"title": "Business Areas",
+										"info": "BPRBAR_LST",
+										"targetURL": "#BPRBAR_LST-start",
+										"icon": "sap-icon://business-one"
+									}
+								},
+								{
+									"id": "BPRSCI_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "BPRSCI_LST",
+										"title": "Scope Items",
+										"info": "BPRSCI_LST",
+										"targetURL": "#BPRSCI_LST-start",
+										"icon": "sap-icon://activity-items"
+									}
+								},
+								{
+									"id": "BPVARS_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "BPVARS_LST",
+										"title": "Variants",
+										"info": "BPVARS_LST",
+										"targetURL": "#BPVARS_LST-start",
+										"icon": "sap-icon://split"
+									}
+								},
+								{
+									"id": "BPTASK_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "BPTASK_LST",
+										"title": "Scope Items Tasks (Steps)",
+										"info": "BPTASK_LST",
+										"targetURL": "#BPTASK_LST-start",
+										"icon": "sap-icon://step"
+									}
+								},
+								{
+									"id": "BPVERS_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "BPVERS_LST",
+										"title": "Best Practices Versions",
+										"info": "BPVERS_LST",
+										"targetURL": "#BPVERS_LST-start",
+										"icon": "sap-icon://sap-logo-shape"
+									}
+								},
+								{
+									"id": "BPRBRO_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "BPRBRO_LST",
+										"title": "Base Roles",
+										"info": "BPRBRO_LST",
+										"targetURL": "#BPRBRO_LST-start",
+										"icon": "sap-icon://role"
+									}
+								}
+							]
+						},
+						{
+							"id": "enterprisearch",
+							"title": "enterprisearch",
+							"isPreset": true,
+							"isVisible": true,
+							"isGroupLocked": false,
+							"tiles": [
+								{
+									"id": "EAINDT_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "EAINDT_LST",
+										"title": "Industries",
+										"info": "EAINDT_LST",
+										"targetURL": "#EAINDT_LST-start",
+										"icon": "sap-icon://factory"
+									}
+								},
+								{
+									"id": "EAGRUP_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "EAGRUP_LST",
+										"title": "Capacities Groups",
+										"info": "EAGRUP_LST",
+										"targetURL": "#EAGRUP_LST-start",
+										"icon": "sap-icon://group-2"
+									}
+								},
+								{
+									"id": "EACAPA_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "EACAPA_LST",
+										"title": "Capacities",
+										"info": "EACAPA_LST",
+										"targetURL": "#EACAPA_LST-start",
+										"icon": "sap-icon://sap-logo-shape"
+									}
+								},
+								{
+									"id": "EAE2EP_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "EAE2EP_LST",
+										"title": "E2E Processes",
+										"info": "EAE2EP_LST",
+										"targetURL": "#EAE2EP_LST-start",
+										"icon": "sap-icon://process"
+									}
+								}
+							]
+						},
+						{
+							"id": "sapcatalog",
+							"title": "sapcatalog",
+							"isPreset": true,
+							"isVisible": true,
+							"isGroupLocked": false,
+							"tiles": [
+								{
+									"id": "COMPON_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "COMPON_LST",
+										"title": "Components",
+										"info": "COMPON_LST",
+										"targetURL": "#COMPON_LST-start",
+										"icon": "sap-icon://add-product"
+									}
+								},
+								{
+									"id": "TCODES_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "TCODES_LST",
+										"title": "Transactions Codes",
+										"info": "TCODES_LST",
+										"targetURL": "#TCODES_LST-start",
+										"icon": "sap-icon://instance"
+									}
+								},
+								{
+									"id": "FIAPPS_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "FIAPPS_LST",
+										"title": "Fiori Apps",
+										"info": "FIAPPS_LST",
+										"targetURL": "#FIAPPS_LST-start",
+										"icon": "sap-icon://responsive"
+									}
+								},
+								{
+									"id": "AOBJCT_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "AOBJCT_LST",
+										"title": "Authorization Objects",
+										"info": "AOBJCT_LST",
+										"targetURL": "#AOBJCT_LST-start",
+										"icon": "sap-icon://business-objects-mobile"
+									}
+								},
+								{
+									"id": "AFIELD_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "AFIELD_LST",
+										"title": "Authorization Fields",
+										"info": "AFIELD_LST",
+										"targetURL": "#AFIELD_LST-start",
+										"icon": "sap-icon://filter-fields"
+									}
+								},
+								{
+									"id": "AORGFD_LST",
+									"size": "1x1",
+									"tileType": "sap.ushell.ui.tile.StaticTile",
+									"properties": {
+										"chipId": "AORGFD_LST",
+										"title": "Authorization Org Fields",
+										"info": "AORGFD_LST",
+										"targetURL": "#AORGFD_LST-start",
+										"icon": "sap-icon://overview-chart"
+									}
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		"NavTargetResolution": {
+			"config": {
+				"enableClientSideTargetResolution": true
+			}
+		},
+		"ClientSideTargetResolution": {
+			"adapter": {
+				"config": {
+					"inbounds": {
+						"BPRLOB_LST": {
+							"semanticObject": "BPRLOB_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.bprlob_lst",
+								"url": "/BPRLOB_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"BPRBAR_LST": {
+							"semanticObject": "BPRBAR_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.bprbar_lst",
+								"url": "/BPRBAR_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"BPRSCI_LST": {
+							"semanticObject": "BPRSCI_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.bprsci_lst",
+								"url": "/BPRSCI_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"BPVARS_LST": {
+							"semanticObject": "BPVARS_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.bpvars_lst",
+								"url": "/BPVARS_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"BPTASK_LST": {
+							"semanticObject": "BPTASK_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.bptask_lst",
+								"url": "/BPTASK_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"BPVERS_LST": {
+							"semanticObject": "BPVERS_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.bpvers_lst",
+								"url": "/BPVERS_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"BPRBRO_LST": {
+							"semanticObject": "BPRBRO_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.bprbro_lst",
+								"url": "/BPRBRO_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"EAINDT_LST": {
+							"semanticObject": "EAINDT_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.eaindt_lst",
+								"url": "/EAINDT_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"EAGRUP_LST": {
+							"semanticObject": "EAGRUP_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.eagrup_lst",
+								"url": "/EAGRUP_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"EACAPA_LST": {
+							"semanticObject": "EACAPA_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.eacapa_lst",
+								"url": "/EACAPA_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"EAE2EP_LST": {
+							"semanticObject": "EAE2EP_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.eae2ep_lst",
+								"url": "/EAE2EP_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"COMPON_LST": {
+							"semanticObject": "COMPON_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.compon_lst",
+								"url": "/COMPON_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"TCODES_LST": {
+							"semanticObject": "TCODES_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.tcodes_lst",
+								"url": "/TCODES_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"FIAPPS_LST": {
+							"semanticObject": "FIAPPS_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.fiapps_lst",
+								"url": "/FIAPPS_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"AOBJCT_LST": {
+							"semanticObject": "AOBJCT_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.aobjct_lst",
+								"url": "/AOBJCT_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"AFIELD_LST": {
+							"semanticObject": "AFIELD_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.afield_lst",
+								"url": "/AFIELD_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						},
+						"AORGFD_LST": {
+							"semanticObject": "AORGFD_LST",
+							"action": "start",
+							"resolutionResult": {
+								"applicationType": "SAPUI5",
+								"additionalInformation": "SAPUI5.Component=knowledgebase.aorgfd_lst",
+								"url": "/AORGFD_LST/webapp"
+							},
+							"signature": {
+								"parameters": {},
+								"additionalParameters": "allowed"
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,250 @@
+code,name,descr,cluster,component_code,ver_code
+1E1,Quality Management in Discrete Manufacturing,Quality Management in Discrete Manufacturing,2,QM-CNT,2022_09
+1E3,Material Replenishment with Kanban - External Proc,Material Replenishment with Kanban - External Procurement,2,PP-CNT,2022_09
+16R,Bank Integration with SAP Multi-Bank Connectivity,Bank Integration with SAP Multi-Bank Connectivity,2,LOD-FSN-AGT-CNT,2022_09
+18J,Requisitioning,Requisitioning,2,MM-PUR-CNT,2022_09
+19C,Activity Management in Procurement,Activity Management in Procurement,1,MM-PUR-CNT,2022_09
+19E,Supplier Classification and Segmentation,Supplier Classification and Segmentation,1,MM-PUR-CNT,2022_09
+1B6,Sales Rebate Processing,Sales Rebate Processing,1,SD-SLS-CNT,2022_09
+1BM,Make-to-Order Production - Semifinished Goods Plan,Make-to-Order Production - Semifinished Goods Planning and Assembly,2,PP-CNT,2022_09
+1BS,SAP Fiori Analytical Apps for Sales,SAP Fiori Analytical Apps for Sales,3,CA-GTF-ANA-CNT-EMB,2022_09
+1EG,Bank Integration with File Interface,Bank Integration with File Interface,2,FIN-FSCM-CLM-CNT,2022_09
+1EZ,Credit Memo Processing,Credit Memo Processing,1,SD-SLS-CNT,2022_09
+1F1,Debit Memo Processing,Debit Memo Processing,2,SD-SLS-CNT,2022_09
+1FD,Employee Integration - SAP S/4HANA Enablement,Employee Integration - SAP S/4HANA Enablement,2,CA-GTF-HCM-CNT,2022_09
+1FM,Quality Management in Procurement,Quality Management in Procurement,2,QM-CNT,2022_09
+1G0,Scrapping in Warehouse,Scrapping in Warehouse,2,SCM-EWM-CNT,2022_09
+1GA,Accounting and Financial Close - Group Ledger IFRS,Accounting and Financial Close - Group Ledger IFRS,2,FI-CNT-GL,2022_09
+1GB,Asset Accounting - Group Ledger IFRS,Asset Accounting - Group Ledger IFRS,2,FI-CNT-AA,2022_09
+1GF,Asset Under Construction - Group Ledger IFRS,Asset Under Construction - Group Ledger IFRS,2,FI-CNT-AA,2022_09
+1GI,General Ledger Allocation Cycle,General Ledger Allocation Cycle,1,FI-CNT-GL,2022_09
+1GO,Cash Journal,Cash Journal,1,FI-CNT-GL,2022_09
+1HB,Financial Plan Data Upload from File,Financial Plan Data Upload from File,1,FI-CNT-CO,2022_09
+1I9,Master Data Catalog for SAP S/4HANA - On-premise,Master Data Catalog for SAP S/4HANA - On-premise,1,SV-CLD-ACT,2022_09
+1IQ,Sales Inquiry,Sales Inquiry,1,SD-SLS-CNT,2022_09
+1IU,Customer Consignment,Customer Consignment,2,SD-SLS-CNT,2022_09
+1J2,Compliance Formats - Support Preparation,Compliance Formats - Support Preparation,1,FI-LOC-SRF-RUN,2022_09
+1JI,Real-Time Reporting and Monitoring for Procurement,Real-Time Reporting and Monitoring for Procurement,2,CA-GTF-ANA-CNT-EMB,2022_09
+1JW,Advanced Available-to-Promise Processing,Advanced Available-to-Promise Processing,2,CA-ATP-CNT,2022_09
+1K2,Event-Based Revenue Recognition - Sell from Stock,Event-Based Revenue Recognition - Sell from Stock,2,FI-CNT-CO,2022_09
+1LQ,Output Management,Output Management,1,CA-GTF-FND,2022_09
+1MI,Delivery Processing without Order Reference,Delivery Processing without Order Reference,2,LE-SHP-CNT,2022_09
+1MN,SAP Fiori Analytical Apps for Treasury and Risk Ma,SAP Fiori Analytical Apps for Treasury and Risk Management,3,CA-GTF-ANA-CNT-EMB,2022_09
+1MP,Quality Management in Sales,Quality Management in Sales,2,QM-CNT,2022_09
+1MR,Quality Management in Stock Handling,Quality Management in Stock Handling,2,QM-CNT,2022_09
+1MV,Cash Application Integration,Cash Application Integration,2,FI-CNT-AR,2022_09
+1NJ,Responsibility Management,Responsibility Management,1,CA-GTF-FND,2022_09
+1NN,Business Event Handling,Business Event Handling,1,CA-GTF-FND,2022_09
+1NR,Engineering Bill of Material - Versions Management,Engineering Bill of Material - Versions Management,2,PLM-CNT,2022_09
+1O0,Planning Apps for Sales,Planning Apps for Sales,2,CA-GTF-ANA-CNT-EMB,2022_09
+1QA,Specification Management for Recipes,Specification Management for Recipes,2,PLM-CNT,2022_09
+1QC,Formulation - Recipe Development,Formulation - Recipe Development,1,PLM-CNT,2022_09
+1QG,Recipe Handover to Production - Bill of Material,Recipe Handover to Production - Bill of Material,2,PLM-CNT,2022_09
+1QM,Advanced Credit Management,Advanced Credit Management,2,FIN-FSCM-CR-CNT,2022_09
+1QR,Predictive Analytics for Purchase Contract Quantit,Predictive Analytics for Purchase Contract Quantity Consumption,3,CA-GTF-ANA-CNT-EMB,2022_09
+1R3,Engineering Bill of Material - Change Master Manag,Engineering Bill of Material - Change Master Management,2,PLM-CNT,2022_09
+1R5,Engineering Bill of Material - Mass Change,Engineering Bill of Material - Mass Change,2,PLM-CNT,2022_09
+1S0,Customer Payments,Customer Payments,2,FI-CNT-AR,2022_09
+1S2,Digital Payments,Digital Payments,2,FI-CNT-AR,2022_09
+1SG,Group Reporting - Financial Consolidation,Group Reporting - Financial Consolidation,1,FIN-CS-CNT,2022_09
+1W8,Legal Control,Legal Control,1,SLL-ITR-CNT,2022_09
+1WA,Transfer of Primary Master Data for SAP Global Tra,Transfer of Primary Master Data for SAP Global Trade Services,1,SLL-ITR-CNT,2022_09
+1WC,Embargo Control,Embargo Control,1,SLL-ITR-CNT,2022_09
+1WE,Restricted Party Screening with SAP Watch List Scr,Restricted Party Screening with SAP Watch List Screening,1,SLL-ITR-CNT,2022_09
+1XF,Request for Price,Request for Price,2,MM-PUR-CNT,2022_09
+1XI,Central Requisitioning,Central Requisitioning,1,MM-PUR-CNT,2022_09
+1XV,SAP S/4HANA for Enterprise Contract Management,SAP S/4HANA for Enterprise Contract Management,2,LCM-CNT,2022_09
+1Y2,Demand-Driven Buffer Level Management,Demand-Driven Buffer Level Management,2,PP-CNT,2022_09
+1Y5,Production Operations with Manufacturing Execution,Production Operations with Manufacturing Execution System,2,MFG-CNT,2022_09
+1YT,Make-to-Order Production with Variant Configuratio,Make-to-Order Production with Variant Configuration,2,PP-CNT,2022_09
+1Z1,Digital Payments - Sales,Digital Payments - Sales,2,SD-SLS-CNT,2022_09
+1Z3,Customer Returns with Direct Shipment from Custome,Customer Returns with Direct Shipment from Customer to Supplier,2,SD-SLS-CNT,2022_09
+1ZI,Basic Handover of Bill of Material,Basic Handover of Bill of Material,2,PLM-CNT,2022_09
+1ZT,Managing Material Price Changes and Inventory Valu,Managing Material Price Changes and Inventory Values,1,FI-CNT-CO,2022_09
+20N,Predictive Analytics Model Training - Supply Chain,Predictive Analytics Model Training - Supply Chain,3,CA-GTF-ANA-CNT-EMB,2022_09
+21D,Make-to-Stock Production with Variant Configuratio,Make-to-Stock Production with Variant Configuration,2,PP-CNT,2022_09
+21P,Lease-In Accounting - Group Ledger IFRS,Lease-In Accounting - Group Ledger IFRS,1,RE-FX-CNT,2022_09
+21Q,Lease-Out Accounting,Lease-Out Accounting,1,RE-FX-CNT,2022_09
+21R,Service Contract,Service Contract,1,RE-FX-CNT,2022_09
+22K,External Workforce Procurement via SAP Fieldglass,External Workforce Procurement via SAP Fieldglass,2,CA-GTF-INT-FG,2022_09
+22P,Manage Documents,Manage Documents,1,PLM-CNT,2022_09
+22R,Advanced Ingredient Replacement for Recipes,Advanced Ingredient Replacement for Recipes,2,PLM-CNT,2022_09
+22T,Set up Configurable Model using Variant Configurat,Set up Configurable Model using Variant Configuration,1,LO-VCH-CNT,2022_09
+22Z,Procurement of Services,Procurement of Services,2,MM-PUR-CNT,2022_09
+24F,Transfer of Contact Person for SAP Global Trade Se,Transfer of Contact Person for SAP Global Trade Services,2,SLL-ITR-CNT,2022_09
+24H,Transfer of Bill of Materials for SAP Global Trade,Transfer of Bill of Materials for SAP Global Trade Services,2,SLL-ITR-CNT,2022_09
+24J,Compliance Management with SAP Global Trade Servic,Compliance Management with SAP Global Trade Services,2,SLL-ITR-CNT,2022_09
+287,Group Reporting - Data from SAP Group Reporting Da,Group Reporting - Data from SAP Group Reporting Data Collection,1,FIN-CS-CNT,2022_09
+28B,Group Reporting - Plan Consolidation,Group Reporting - Plan Consolidation,2,FIN-CS-CNT,2022_09
+2EM,Just-In-Time Supply to Customer,Just-In-Time Supply to Customer,2,LE-JIT,2022_09
+2EQ,Sale of Services,Sale of Services,2,SD-SLS-CNT,2022_09
+2ET,Sales Order Processing for Non-Stock Material,Sales Order Processing for Non-Stock Material,2,SD-SLS-CNT,2022_09
+2F9,Quality Management for Complaints against Supplier,Quality Management for Complaints against Suppliers,2,QM-CNT,2022_09
+2FA,Quality Management for Complaints from Customers,Quality Management for Complaints from Customers,2,QM-CNT,2022_09
+2FD,Accounting for Incoming Sales Orders,Accounting for Incoming Sales Orders,2,FI-CNT-CO,2022_09
+2FM,Financial Planning and Analysis,Financial Planning and Analysis,1,FI-CNT-GL,2022_09
+2G4,Requirements Driven Development,Requirements Driven Development,2,PLM-CNT,2022_09
+2G5,Software Compatibility Management,Software Compatibility Management,2,PLM-CNT,2022_09
+2G6,Embedded Software Management,Embedded Software Management,1,PLM-CNT,2022_09
+2I3,Predictive Commitments Management,Predictive Commitments Management,2,FI-CNT-CO,2022_09
+2JB,SAP Fiori Analytical Apps for Financial Accounting,SAP Fiori Analytical Apps for Financial Accounting,1,CA-GTF-ANA-CNT-EMB,2022_09
+2JN,Production Operations with SAP Manufacturing Execu,Production Operations with SAP Manufacturing Execution,2,MFG-CNT,2022_09
+2LG,Supplier Consignment,Supplier Consignment,1,MM-PUR-CNT,2022_09
+2LZ,External Digital Payments,External Digital Payments,2,FI-CNT-AR,2022_09
+2M0,External Customer Payments,External Customer Payments,2,FI-CNT-AR,2022_09
+2ME,Central Purchase Contracts,Central Purchase Contracts,1,MM-PUR-CNT,2022_09
+2NV,Guided Buying Capability with SAP Ariba Buying,Guided Buying Capability with SAP Ariba Buying,2,CA-GTF-INT-ARI,2022_09
+2NX,Scheduling Agreement for Subcontracting Procuremen,Scheduling Agreement for Subcontracting Procurement,2,MM-PUR-CNT,2022_09
+2NY,Scheduling Agreement for Consignment Procurement,Scheduling Agreement for Consignment Procurement,1,MM-PUR-CNT,2022_09
+2O0,Bank Fee Management,Bank Fee Management,1,FIN-FSCM-CLM-CNT,2022_09
+2OH,Continuous Control Monitoring with SAP Process Con,Continuous Control Monitoring with SAP Process Control,2,GRC-INT-SPC-CNT,2022_09
+2OQ,Integration to SAP Enterprise Contract Assembly,Integration to SAP Enterprise Contract Assembly,2,LCM-CNT,2022_09
+2PD,Provisioning of Overdue Receivables,Provisioning of Overdue Receivables,2,FI-CNT-AR,2022_09
+2Q2,Data Migration to SAP S/4HANA from Staging,Data Migration to SAP S/4HANA from Staging,3,CA-GTF-MIG,2022_09
+2QI,Demand-Driven Replenishment Planning and Execution,Demand-Driven Replenishment Planning and Execution,2,PP-CNT,2022_09
+2QL,Universal Allocation,Universal Allocation,1,FI-CNT-CO,2022_09
+2QN,Nonconformance Management,Nonconformance Management,2,QM-CNT,2022_09
+2QP,Quality Management of Internal Problems,Quality Management of Internal Problems,2,QM-CNT,2022_09
+2QS,Analytics for Sales - Central Stock with Returns,Analytics for Sales - Central Stock with Returns,3,CA-GTF-ANA-CNT-EMB,2022_09
+2QU,Analytics - Purchase Order Visibility and Procurem,Analytics - Purchase Order Visibility and Procurement Spend,1,CA-GTF-ANA-CNT-EMB,2022_09
+2QW,Analytics for Production Unit - Plan/Actual Produc,Analytics for Production Unit - Plan/Actual Production Cost,3,CA-GTF-ANA-CNT-EMB,2022_09
+2QY,SAP Fiori Analytical Apps for Asset Accounting in ,SAP Fiori Analytical Apps for Asset Accounting in Finance,3,CA-GTF-ANA-CNT-EMB,2022_09
+2SA,Lease-Out for Sublease Accounting - Group Ledger I,Lease-Out for Sublease Accounting - Group Ledger IFRS,2,RE-FX-CNT,2022_09
+2TT,Sales Commissions - External Sales Representative,Sales Commissions - External Sales Representative,1,SD-SLS-CNT,2022_09
+2TX,Direct Procurement with Inbound Delivery,Direct Procurement with Inbound Delivery,2,MM-PUR-CNT,2022_09
+2U1,Customs Management with SAP Global Trade Services,Customs Management with SAP Global Trade Services,2,SLL-ITR-CNT,2022_09
+2U2,Key Risk Indicator Monitoring with SAP Risk Manage,Key Risk Indicator Monitoring with SAP Risk Management,2,GRC-INT-RM-CNT,2022_09
+2U3,Classification for Customs Tariff Number and Commo,Classification for Customs Tariff Number and Commodity Code,1,SLL-ITR-CNT,2022_09
+2U6,Group Reporting - Data from External Systems,Group Reporting - Data from External Systems,1,FIN-CS-CNT,2022_09
+2UG,Make-to-Stock - Process Manufacturing Based on Pro,Make-to-Stock - Process Manufacturing Based on Production Order,2,PP-CNT,2022_09
+2V0,SAP Fiori Analytical Apps for Quality Management,SAP Fiori Analytical Apps for Quality Management,3,QM-CNT,2022_09
+2V7,Monitoring of Goods and Invoice Receipts,Monitoring of Goods and Invoice Receipts,2,FI-CNT-GL,2022_09
+2VB,Purchase Order Accruals,Purchase Order Accruals,1,FI-CNT-GL,2022_09
+2WK,Handover of Product Information to SAP Asset Intel,Handover of Product Information to SAP Asset Intelligence Network,2,PLM-CNT,2022_09
+2XT,Central Purchasing,Central Purchasing,1,MM-PUR-CNT,2022_09
+2XU,Procurement of Materials with Variant Configuratio,Procurement of Materials with Variant Configuration,2,MM-PUR-CNT,2022_09
+2XX,Propose Resolution for Invoice Payment Block,Propose Resolution for Invoice Payment Block,2,MM-PUR-CNT,2022_09
+2YC,Intelligent Content Processing for Document Classi,Intelligent Content Processing for Document Classification,1,PLM-CNT,2022_09
+2YJ,Predictive Analytics Model Training - Sales,Predictive Analytics Model Training - Sales,3,CA-GTF-ANA-CNT-EMB,2022_09
+2ZS,Machine Learning for Monitoring of Goods and Invoi,Machine Learning for Monitoring of Goods and Invoice Receipts,2,FI-GL-IS,2022_09
+30K,Predictive Analytics Model Training - Finance,Predictive Analytics Model Training - Finance,3,CA-GTF-ANA-CNT-EMB,2022_09
+31G,Chemical Compliance Approval for Purchased Materia,Chemical Compliance Approval for Purchased Material and Supplier,2,EHS-SUS-CNT,2022_09
+31H,Assess Marketability of a Product,Assess Marketability of a Product,1,EHS-SUS-CNT,2022_09
+31J,Chemical Compliance in the Value Chain,Chemical Compliance in the Value Chain,2,EHS-SUS-CNT,2022_09
+31L,Production Capacity Evaluation,Production Capacity Evaluation,2,PP-CNT,2022_09
+31N,Situation Handling,Situation Handling,2,CA-GTF-FND,2022_09
+31Q,Sales Order Processing for Sales Kits,Sales Order Processing for Sales Kits,1,SD-SLS-CNT,2022_09
+33M,Event-Based Revenue Recognition - Sell from Stock ,Event-Based Revenue Recognition - Sell from Stock - IFRS,1,FI-CNT-CO,2022_09
+33Q,Actual Costing,Actual Costing,2,FI-CNT-CO,2022_09
+34B,Statistical Sales Conditions,Statistical Sales Conditions,1,FI-CNT-CO,2022_09
+34P,Treasury Workstation Cash Integration,Treasury Workstation Cash Integration,1,FIN-FSCM-CLM-CNT,2022_09
+35Q,Product Structure Template Management,Product Structure Template Management,1,PLM-CNT,2022_09
+3AF,Group Account Preparation for Financial Consolidat,Group Account Preparation for Financial Consolidation,1,FIN-CS-CNT,2022_09
+3FC,Assess Dangerous Goods for a Product,Assess Dangerous Goods for a Product,1,EHS-SUS-CNT,2022_09
+3FY,Prediction of Delivery Date for Purchase Order Ite,Prediction of Delivery Date for Purchase Order Items,2,CA-GTF-ANA-CNT-EMB,2022_09
+3G8,Dangerous Goods in the Value Chain,Dangerous Goods in the Value Chain,2,EHS-SUS-CNT,2022_09
+3JP,Group Reporting - Predictive Consolidation,Group Reporting - Predictive Consolidation,2,FIN-CS-CNT,2022_09
+3JX,Preference Management with SAP Global Trade Servic,Preference Management with SAP Global Trade Services,2,SLL-ITR-CNT,2022_09
+3KX,Privacy Risk Detection with SAP Privacy Governance,Privacy Risk Detection with SAP Privacy Governance,2,GRC-INT-SPG-CNT,2022_09
+3KY,Financial Operation Monitoring with SAP Financial ,Financial Operation Monitoring with SAP Financial Compliance,2,GRC-INT-FC-CNT,2022_09
+3L5,Liquidity Planning,Liquidity Planning,1,FIN-FSCM-CLM-CNT,2022_09
+3L7,Make-to-Stock with Co- and By-Products - Process M,Make-to-Stock with Co- and By-Products - Process Manufacturing,2,PP-CNT,2022_09
+3LO,Change Manufacturing Bill of Material for Producti,Change Manufacturing Bill of Material for Production,2,PP-CNT,2022_09
+3LP,Mass Change Manufacturing Bill of Material for Pro,Mass Change Manufacturing Bill of Material for Production,2,PP-CNT,2022_09
+3LQ,Production Capacity Leveling,Production Capacity Leveling,2,PP-CNT,2022_09
+3LX,Group Reporting - Matrix Consolidation,Group Reporting - Matrix Consolidation,2,FIN-CS-CNT,2022_09
+3ND,Product Structure Management,Product Structure Management,2,PLM-CNT,2022_09
+3OK,Make-to-Order Production - Process Manufacturing,Make-to-Order Production - Process Manufacturing,2,PP-CNT,2022_09
+3TE,Customer Returns for Non-Stock and Service Materia,Customer Returns for Non-Stock and Service Materials,2,SD-SLS-CNT,2022_09
+3UK,Inbound Storage Tank Management - Process Manufact,Inbound Storage Tank Management - Process Manufacturing,2,PP-CNT,2022_09
+3UL,Make-to-Stock with Silo Material - Process Manufac,Make-to-Stock with Silo Material - Process Manufacturing,2,PP-CNT,2022_09
+3VQ,Safety Data Sheets in the Value Chain,Safety Data Sheets in the Value Chain,2,EHS-SUS-CNT,2022_09
+3VR,Manage Safety Data Sheets for Products,Manage Safety Data Sheets for Products,2,EHS-SUS-CNT,2022_09
+3ZF,Central Sourcing,Central Sourcing,2,MM-PUR-CNT,2022_09
+40Y,Intercompany Reconciliation Process,Intercompany Reconciliation Process,1,FIN-CS-CNT,2022_09
+41F,Procurement of Pipeline Materials,Procurement of Pipeline Materials,1,MM-PUR-CNT,2022_09
+42K,Automation of Source-to-Pay with Ariba Network,Automation of Source-to-Pay with Ariba Network,2,CA-GTF-INT-ARI,2022_09
+42N,Tank Trailer Filling with Residuals,Tank Trailer Filling with Residuals,2,PP-CNT,2022_09
+43B,Service Monitoring and Analytics,Service Monitoring and Analytics,1,CRM-S4-REP-CNT,2022_09
+4AZ,Contract Management with SAP Ariba Contracts,Contract Management with SAP Ariba Contracts,1,CA-GTF-INT-ARI,2022_09
+4B0,Contract for Central Procurement with SAP Ariba Co,Contract for Central Procurement with SAP Ariba Contracts,2,CA-GTF-INT-ARI,2022_09
+4B3,Material Replenishment with Kanban - In-House Prod,Material Replenishment with Kanban - In-House Production,2,PP-CNT,2022_09
+4B4,Material Replenishment with Kanban - Stock Transfe,Material Replenishment with Kanban - Stock Transfer,2,PP-CNT,2022_09
+4B5,Predictive Material and Resource Planning,Predictive Material and Resource Planning,2,PP-CNT,2022_09
+4HH,Reactive Maintenance,Reactive Maintenance,2,PM-CNT,2022_09
+4HI,Proactive Maintenance,Proactive Maintenance,2,PM-CNT,2022_09
+4IH,Delivery Insights Enabled by IoT,Delivery Insights Enabled by IoT,2,MM-PUR-CNT,2022_09
+4LO,Enablement of SAP Excise Tax Management,Enablement of SAP Excise Tax Management,2,LOD-ET-INT,2022_09
+4LU,Physical Inventory - Cycle Counting,Physical Inventory - Cycle Counting,2,MM-IM-CNT,2022_09
+4MM,Handling Unit Management,Handling Unit Management,2,LO-HU-CNT,2022_09
+4MT,Advanced Payment Management,Advanced Payment Management,2,FIN-FSCM-PF-CNT,2022_09
+4N6,SAP Central Invoice Management Backend Enablement,SAP Central Invoice Management Backend Enablement,1,MM-PUR-CNT,2022_09
+4OC,Make-to-Order Production for Sales Kits with Varia,Make-to-Order Production for Sales Kits with Variant Configuration,2,SD-SLS-CNT,2022_09
+4RC,Integrated Financial Planning,Integrated Financial Planning,1,FI-CNT-GL,2022_09
+4VB,Group Reporting - Consolidation with Multiple Grou,Group Reporting - Consolidation with Multiple Group Currencies,2,FIN-CS-CNT,2022_09
+4X8,Advanced Bank Statement Automation,Advanced Bank Statement Automation,2,FI-CNT-AR,2022_09
+5D2,Advanced Intercompany Sales,Advanced Intercompany Sales,2,SD-BIL-CNT,2022_09
+5I2,Subcontracting with Ariba Network,Subcontracting with Ariba Network,2,CA-GTF-INT-ARI,2022_09
+5JT,Automation of Central Procurement Quotes with Arib,Automation of Central Procurement Quotes with Ariba Network,2,CA-GTF-INT-ARI,2022_09
+5XU,Document and Reporting Compliance,Document and Reporting Compliance,2,CA-GTF-CSC-DRC-PRC,2022_09
+6LJ,Available-to-Promise Processing,Available-to-Promise Processing,2,CA-ATP-CNT,2022_09
+BD3,Sales Processing using Third-Party with Shipping N,Sales Processing using Third-Party with Shipping Notification,2,SD-SLS-CNT,2022_09
+BD6,Basic Credit Management,Basic Credit Management,2,FIN-FSCM-CR-CNT,2022_09
+BD9,Sell from Stock,Sell from Stock,2,SD-SLS-CNT,2022_09
+BDA,Free of Charge Delivery,Free of Charge Delivery,2,SD-SLS-CNT,2022_09
+BDD,Lean Customer Returns,Lean Customer Returns,2,SD-SLS-CNT,2022_09
+BDG,Sales Quotation,Sales Quotation,1,SD-SLS-CNT,2022_09
+BDK,Sales Processing Using Third-Party Without Shippin,Sales Processing Using Third-Party Without Shipping Notification,2,SD-SLS-CNT,2022_09
+BDN,Sales of Non-Stock Item with Order-Specific Procur,Sales of Non-Stock Item with Order-Specific Procurement,2,SD-SLS-CNT,2022_09
+BDQ,Invoice Correction Process with Debit Memo,Invoice Correction Process with Debit Memo,2,SD-SLS-CNT,2022_09
+BDW,Returnables Processing,Returnables Processing,2,SD-SLS-CNT,2022_09
+BEG,Standard Cost Calculation,Standard Cost Calculation,1,FI-CNT-CO,2022_09
+BEI,Period-End Closing - Plant,Period-End Closing - Plant,3,FI-CNT-CO,2022_09
+BEJ,Inventory Valuation for Year-End Closing,Inventory Valuation for Year-End Closing,2,FI-CNT-CO,2022_09
+BEV,Internal Order - Actual,Internal Order - Actual,1,FI-CNT-CO,2022_09
+BF7,Period-End Closing - Maintenance Orders,Period-End Closing - Maintenance Orders,3,FI-CNT-CO,2022_09
+BFA,Basic Bank Account Management,Basic Bank Account Management,1,FIN-FSCM-CLM-CNT,2022_09
+BFB,Basic Cash Operations,Basic Cash Operations,2,FIN-FSCM-CLM-CNT,2022_09
+BFC,Collections and Dispute Management,Collections and Dispute Management,2,FIN-FSCM-COL-CNT,2022_09
+BFH,Asset Under Construction,Asset Under Construction,2,FI-CNT-AA,2022_09
+BGC,SAP Fiori Analytical Apps for G/L Accounting in Fi,SAP Fiori Analytical Apps for G/L Accounting in Finance,1,CA-GTF-ANA-CNT-EMB,2022_09
+BGG,SAP Fiori Analytical Apps for Inventory and Wareho,SAP Fiori Analytical Apps for Inventory and Warehouse Management,3,CA-GTF-ANA-CNT-EMB,2022_09
+BH1,Corrective Maintenance,Corrective Maintenance,2,PM-CNT,2022_09
+BH2,Emergency Maintenance,Emergency Maintenance,2,PM-CNT,2022_09
+BJ2,Preventive Maintenance,Preventive Maintenance,2,PM-CNT,2022_09
+BJ5,Make-to-Stock Production - Discrete Manufacturing,Make-to-Stock Production - Discrete Manufacturing,2,PP-CNT,2022_09
+BJ8,Make-to-Stock - Process Manufacturing Based on Pro,Make-to-Stock - Process Manufacturing Based on Process Order,2,PP-CNT,2022_09
+BJE,Make-to-Order Production - Finished Goods Sales an,Make-to-Order Production - Finished Goods Sales and Final Assembly,2,PP-CNT,2022_09
+BJH,Make-to-Stock Production - Repetitive Manufacturin,Make-to-Stock Production - Repetitive Manufacturing,2,PP-CNT,2022_09
+BJK,Production Subcontracting - External Processing,Production Subcontracting - External Processing,2,PP-CNT,2022_09
+BJN,Rework Processing - Stock-Manufactured Material,Rework Processing - Stock-Manufactured Material,2,PP-CNT,2022_09
+BJQ,Rework Processing - Work-in-Process,Rework Processing - Work-in-Process,2,PP-CNT,2022_09
+BKA,Free Goods Processing,Free Goods Processing,2,SD-SLS-CNT,2022_09
+BKJ,Sales Order Processing with Customer Down Payment,Sales Order Processing with Customer Down Payment,2,SD-SLS-CNT,2022_09
+BKK,Sales Order Fulfillment Monitoring and Operations,Sales Order Fulfillment Monitoring and Operations,2,SD-SLS-CNT,2022_09
+BKL,Invoice Correction Process with Credit Memo,Invoice Correction Process with Credit Memo,2,SD-SLS-CNT,2022_09
+BKN,Order-to-Cash Performance Monitoring,Order-to-Cash Performance Monitoring,2,CA-GTF-ANA-CNT-EMB,2022_09
+BKP,Customer Returns,Customer Returns,2,SD-SLS-CNT,2022_09
+BKZ,Sales Order Processing with Invoice List and Colle,Sales Order Processing with Invoice List and Collective Billing,2,SD-SLS-CNT,2022_09
+BLF,Batch Management,Batch Management,2,LO-BM-CNT,2022_09
+BLL,Serial Number Management,Serial Number Management,2,LO-MD-SN-CNT,2022_09
+BMC,Core Inventory Management,Core Inventory Management,2,MM-IM-CNT,2022_09
+BMD,Purchase Contract,Purchase Contract,1,MM-PUR-CNT,2022_09
+BMK,Return to Supplier,Return to Supplier,2,MM-PUR-CNT,2022_09
+BML,Physical Inventory - Inventory Count and Adjustmen,Physical Inventory - Inventory Count and Adjustment,2,MM-IM-CNT,2022_09
+BMR,Scheduling Agreements in Procurement,Scheduling Agreements in Procurement,2,MM-PUR-CNT,2022_09
+BMY,Subcontracting,Subcontracting,2,MM-PUR-CNT,2022_09
+BNX,Consumable Purchasing,Consumable Purchasing,2,MM-PUR-CNT,2022_09
+I9I,Sales Contract Management,Sales Contract Management,1,SD-SLS-CNT,2022_09
+J44,Material Requirements Planning,Material Requirements Planning,2,PP-CNT,2022_09
+J45,Procurement of Direct Materials,Procurement of Direct Materials,2,MM-PUR-CNT,2022_09
+J54,Overhead Cost Accounting,Overhead Cost Accounting,1,FI-CNT-CO,2022_09
+J55,Margin Analysis,Margin Analysis,3,FI-CNT-CO,2022_09
+J58,Accounting and Financial Close,Accounting and Financial Close,1,FI-CNT-GL,2022_09
+J59,Accounts Receivable,Accounts Receivable,2,FI-CNT-AR,2022_09
+J60,Accounts Payable,Accounts Payable,2,FI-CNT-AP,2022_09
+J62,Asset Accounting,Asset Accounting,1,FI-CNT-AA,2022_09
+J77,Advanced Bank Account Management,Advanced Bank Account Management,2,FIN-FSCM-CLM-CNT,2022_09
+J78,Advanced Cash Operations,Advanced Cash Operations,2,FIN-FSCM-CLM-CNT,2022_09
+J82,Automated Purchase-to-Pay with SAP Ariba Commerce ,Automated Purchase-to-Pay with SAP Ariba Commerce Automation,2,CA-GTF-INT-ARI,2022_09
+SL4,Supplier Evaluation and Performance Monitoring,Supplier Evaluation and Performance Monitoring,2,MM-PUR-CNT,2022_09

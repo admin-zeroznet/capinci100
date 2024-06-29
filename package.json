@@ -1,18 +1,47 @@
 {
-  "name": "capinci100",
-  "version": "1.0.0",
-  "description": "A simple CAP project.",
-  "repository": "<Add your repository here>",
-  "license": "UNLICENSED",
-  "private": true,
-  "dependencies": {
-    "@sap/cds": "^6",
-    "express": "^4"
-  },
-  "devDependencies": {
-    "sqlite3": "^5"
-  },
-  "scripts": {
-    "start": "cds-serve"
-  }
+	"name": "capinci100",
+	"version": "1.0.0",
+	"description": "A simple CAP project.",
+	"repository": "<Add your repository here>",
+	"license": "UNLICENSED",
+	"private": true,
+	"dependencies": {
+		"@sap/cds": "^6",
+		"express": "^4"
+	},
+	"devDependencies": {
+		"sqlite3": "^5"
+	},
+	"scripts": {
+		"start": "cds-serve"
+	},
+	"sapux": [
+		"app/bprlob_lst",
+		"app/bprbar_lst",
+		"app/bprsci_lst",
+		"app/bpvars_lst",
+		"app/bptask_lst",
+		"app/bpvers_lst",
+		"app/bprbro_lst",
+		"app/eaindt_lst",
+		"app/eagrup_lst",
+		"app/eacapa_lst",
+		"app/eae2ep_lst",
+		"app/compon_lst",
+		"app/tcodes_lst",
+		"app/fiapps_lst",
+		"app/aobjct_lst",
+		"app/afield_lst",
+		"app/aorgfd_lst"
+	],
+	"cds": {
+		"requires": {
+			"db": {
+				"kind": "sqlite",
+				"credentials": {
+					"database": "db.sqlite"
+				}
+			}
+		}
+	}
 }

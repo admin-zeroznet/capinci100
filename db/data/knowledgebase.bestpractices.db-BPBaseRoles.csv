@@ -1,0 +1,229 @@
+code,name
+SAP_BR_AA_ACCOUNTANT,Asset Accountant
+SAP_BR_AA_ACCOUNTANT_BG,Asset Accountant for Bulgaria
+SAP_BR_AA_ACCOUNTANT_JP,Asset Accountant for Japan
+SAP_BR_AA_ACCOUNTANT_KR,Asset Accountant for South Korea
+SAP_BR_AA_ACCOUNTANT_RO,Asset Accountant for Romania
+SAP_BR_AA_ACCOUNTANT_RU,Asset Accountant for Russian Federation
+SAP_BR_ADMINISTRATOR,Administrator
+SAP_BR_ADMINISTRATOR_DATA_REPL,Administrator - Data Replication
+SAP_BR_ADMINISTRATOR_GRP,Administrator - Group Reporting
+SAP_BR_ADMINISTRATOR_LCM,Administrator - Enterprise Contract Management
+SAP_BR_ADMINISTRATOR_MKT,Administrator - Marketing
+SAP_BR_ADMINISTRATOR_RCP_DEV,Administrator - Recipe Development
+SAP_BR_ADMINISTRATOR_RFM,Administrator (Retail)
+SAP_BR_ADMINISTRATOR_SLL,Administrator - International Trade
+SAP_BR_ADMIN_APR_FICA,Administrator - Accounts Payable and Receivable (FI-CA)
+SAP_BR_ADMIN_APR_FICA_US,Administrator - Accounts Payable and Receivable (FI-CA) for USA
+SAP_BR_ADMIN_SUS_PFM,Administrator - Product Footprint Management
+SAP_BR_ALLOCATOR_RETAIL,Allocator (Retail)
+SAP_BR_ANALYTICS_SPECIALIST,Analytics Specialist
+SAP_BR_APR_ACCOUNTANT_FICA,Accounts Payable and Receivable Accountant (FI-CA)
+SAP_BR_APR_MANAGER_FICA,Accounts Payable and Receivable Manager (FI-CA)
+SAP_BR_AP_ACCOUNTANT,Accounts Payable Accountant
+SAP_BR_AP_ACCOUNTANT_BR,Accounts Payable Accountant for Brazil
+SAP_BR_AP_ACCOUNTANT_CL,Accounts Payable Accountant for Chile
+SAP_BR_AP_ACCOUNTANT_CN,Accounts Payable Accountant for China
+SAP_BR_AP_ACCOUNTANT_ES,Accounts Payable Accountant for Spain
+SAP_BR_AP_ACCOUNTANT_HU,Accounts Payable Accountant for Hungary
+SAP_BR_AP_ACCOUNTANT_ID,Accounts Payable Accountant for Indonesia
+SAP_BR_AP_ACCOUNTANT_IN,Accounts Payable Accountant for India
+SAP_BR_AP_ACCOUNTANT_JP,Accounts Payable Accountant for Japan
+SAP_BR_AP_ACCOUNTANT_MX,Accounts Payable Accountant for Mexico
+SAP_BR_AP_ACCOUNTANT_NL,Accounts Payable Accountant for Netherlands
+SAP_BR_AP_ACCOUNTANT_PL,Accounts Payable Accountant for Poland
+SAP_BR_AP_ACCOUNTANT_PROCMT_CN,Accounts Payable Accountant - Procurement for China
+SAP_BR_AP_ACCOUNTANT_RU,Accounts Payable Accountant for Russian Federation
+SAP_BR_AP_ACCOUNTANT_SA,Accounts Payable Accountant for Saudi Arabia
+SAP_BR_AP_ACCOUNTANT_TH,Accounts Payable Accountant for Thailand
+SAP_BR_AP_MANAGER,Accounts Payable Manager
+SAP_BR_AP_MANAGER_AU,Accounts Payable Manager for Australia
+SAP_BR_AP_MANAGER_BE,Accounts Payable Manager for Belgium
+SAP_BR_AP_MANAGER_ES,Accounts Payable Manager for Spain
+SAP_BR_AP_MANAGER_FR,Accounts Payable Manager for France
+SAP_BR_AP_MANAGER_ID,Accounts Payable Manager for Indonesia
+SAP_BR_AP_MANAGER_IE,Accounts Payable Manager for Ireland
+SAP_BR_AP_MANAGER_IT,Accounts Payable Manager for Italy
+SAP_BR_AP_MANAGER_KR,Accounts Payable Manager for South Korea
+SAP_BR_AP_MANAGER_MY,Accounts Payable Manager for Malaysia
+SAP_BR_AP_MANAGER_SA,Accounts Payable Manager for Saudi Arabia
+SAP_BR_AP_MANAGER_SG,Accounts Payable Manager for Singapore
+SAP_BR_AP_MANAGER_TH,Accounts Payable Manager for Thailand
+SAP_BR_AP_MANAGER_ZA,Accounts Payable Manager for South Africa
+SAP_BR_AR_ACCOUNTANT,Accounts Receivable Accountant
+SAP_BR_AR_ACCOUNTANT_CL,Accounts Receivable Accountant for Chile
+SAP_BR_AR_ACCOUNTANT_CN,Accounts Receivable Accountant for China
+SAP_BR_AR_ACCOUNTANT_ID,Accounts Receivable Accountant for Indonesia
+SAP_BR_AR_ACCOUNTANT_JP,Accounts Receivable Accountant for Japan
+SAP_BR_AR_ACCOUNTANT_MX,Accounts Receivable Accountant for Mexico
+SAP_BR_AR_ACCOUNTANT_PL,Accounts Receivable Accountant for Poland
+SAP_BR_AR_MANAGER,Accounts Receivable Manager
+SAP_BR_BANK_INT_SPECIALIST,Business Integration Specialist - Bank Integration
+SAP_BR_BATCH_MASTER_SPCLST,Master Data Specialist - Batch Data
+SAP_BR_BILLING_CLERK,Billing Clerk
+SAP_BR_BILLING_CLERK_BR,Billing Clerk for Brazil
+SAP_BR_BILLING_CLERK_IT,Billing Clerk for Italy
+SAP_BR_BILLING_CLERK_KR,Billing Clerk for South Korea
+SAP_BR_BILLING_CLERK_PH,Billing Clerk for Philippines
+SAP_BR_BILLING_CLERK_RU,Billing Clerk for Russian Federation
+SAP_BR_BOM_ENGINEER,BOM Engineer
+SAP_BR_BOM_ENG_CUST_ORDER,BOM Engineer - Customer Order
+SAP_BR_BPC_EXPERT,Configuration Expert - Business Process Configuration
+SAP_BR_BUDGET_SPECIALIST,Budget Specialist - Funds Management
+SAP_BR_BUSINESS_ANALYST_GRP,Business Analyst - Group Reporting
+SAP_BR_BUSINESS_PROCESS_SPEC,Business Process Specialist
+SAP_BR_CASH_MANAGER,Cash Manager
+SAP_BR_CASH_MANAGER_CN,Cash Manager for China
+SAP_BR_CASH_MANAGER_JP,Cash Manager for Japan
+SAP_BR_CASH_MANAGER_KR,Cash Manager for South Korea
+SAP_BR_CASH_MANAGER_MY,Cash Manager for Malaysia
+SAP_BR_CASH_MANAGER_PH,Cash Manager for Philippines
+SAP_BR_CASH_SPECIALIST,Cash Management Specialist
+SAP_BR_CASH_SPECIALIST_CN,Cash Management Specialist for China
+SAP_BR_CASH_SPECIALIST_US,Cash Management Specialist for USA
+SAP_BR_CENTRAL_PURCHASER,Purchaser - Central Procurement
+SAP_BR_CHG_MGMT_COORDINATOR,Change Management Coordinator
+SAP_BR_CLAIMS_ANALYST_COMPL,Claims Analyst
+SAP_BR_COLL_SPECIALIST_FICA,Collections Specialist (FI-CA)
+SAP_BR_CONF_EXPERT_BUS_NET_INT,Configuration Expert - Business Network Integration
+SAP_BR_CONSLDTN_SPECIALIST,Consolidation Specialist
+SAP_BR_CONTR_MGR_ROYALTIES,Contract Manager - Royalties
+SAP_BR_CREDIT_CONTROLLER,Credit Controller
+SAP_BR_CUSTOMER_SRVC_MGR,Customer Service Manager
+SAP_BR_CUST_SRVC_MGR_REPA,Customer Service Manager - In-House Repair
+SAP_BR_DATA_MIG_TEST,Configuration Expert - Data Migration
+SAP_BR_DG_SPLST_PCL,Dangerous Goods Specialist - Product Compliance
+SAP_BR_DISPATCHER,Dispatcher (TM)
+SAP_BR_DIVISION_ACCOUNTANT,Divisional Accountant
+SAP_BR_DO_ANALYST_IOG,Division Order Analyst (IOG)
+SAP_BR_EHS_ENV_MGMT,Environmental Manager
+SAP_BR_EMPLOYEE,Employee
+SAP_BR_EMPLOYEE_LEGAL_CONTENT,Employee - Enterprise Contract Management
+SAP_BR_EMPLOYEE_PROCUREMENT,Employee - Procurement
+SAP_BR_EXTERNAL_AUDITOR,External Auditor
+SAP_BR_EXTERNAL_AUDITOR_AT,External Auditor for Austria
+SAP_BR_EXTERNAL_AUDITOR_PRC,External Auditor - Procurement
+SAP_BR_EXTERNAL_AUDITOR_SLS,External Auditor - Sales
+SAP_BR_EXT_AUDITOR_APR_FICA,External Auditor - Accounts Payable and Receivable (FI-CA)
+SAP_BR_EXT_AUDITOR_APR_FICA_DE,External Auditor - Accounts Payable and Receivable (FI-CA) for Germany
+SAP_BR_GL_ACCOUNTANT,General Ledger Accountant
+SAP_BR_GL_ACCOUNTANT_AE,General Ledger Accountant for United Arab Emirates
+SAP_BR_GL_ACCOUNTANT_AT,General Ledger Accountant for Austria
+SAP_BR_GL_ACCOUNTANT_AU,General Ledger Accountant for Australia
+SAP_BR_GL_ACCOUNTANT_BE,General Ledger Accountant for Belgium
+SAP_BR_GL_ACCOUNTANT_BR,General Ledger Accountant for Brazil
+SAP_BR_GL_ACCOUNTANT_CA,General Ledger Accountant for Canada
+SAP_BR_GL_ACCOUNTANT_CH,General Ledger Accountant for Switzerland
+SAP_BR_GL_ACCOUNTANT_CN,General Ledger Accountant for China
+SAP_BR_GL_ACCOUNTANT_CZ,General Ledger Accountant for Czech Republic
+SAP_BR_GL_ACCOUNTANT_DE,General Ledger Accountant for Germany
+SAP_BR_GL_ACCOUNTANT_DK,General Ledger Accountant for Denmark
+SAP_BR_GL_ACCOUNTANT_ES,General Ledger Accountant for Spain
+SAP_BR_GL_ACCOUNTANT_FI,General Ledger Accountant for Finland
+SAP_BR_GL_ACCOUNTANT_FR,General Ledger Accountant for France
+SAP_BR_GL_ACCOUNTANT_GB,General Ledger Accountant for United Kingdom
+SAP_BR_GL_ACCOUNTANT_HU,General Ledger Accountant for Hungary
+SAP_BR_GL_ACCOUNTANT_IE,General Ledger Accountant for Ireland
+SAP_BR_GL_ACCOUNTANT_IN,General Ledger Accountant for India
+SAP_BR_GL_ACCOUNTANT_IT,General Ledger Accountant for Italy
+SAP_BR_GL_ACCOUNTANT_JP,General Ledger Accountant for Japan
+SAP_BR_GL_ACCOUNTANT_KR,General Ledger Accountant for South Korea
+SAP_BR_GL_ACCOUNTANT_LU,General Ledger Accountant for Luxembourg
+SAP_BR_GL_ACCOUNTANT_MX,General Ledger Accountant for Mexico
+SAP_BR_GL_ACCOUNTANT_NL,General Ledger Accountant for Netherlands
+SAP_BR_GL_ACCOUNTANT_PH,General Ledger Accountant for Philippines
+SAP_BR_GL_ACCOUNTANT_PL,General Ledger Accountant for Poland
+SAP_BR_GL_ACCOUNTANT_PT,General Ledger Accountant for Portugal
+SAP_BR_GL_ACCOUNTANT_RO,General Ledger Accountant for Romania
+SAP_BR_GL_ACCOUNTANT_RU,General Ledger Accountant for Russian Federation
+SAP_BR_GL_ACCOUNTANT_SA,General Ledger Accountant for Saudi Arabia
+SAP_BR_GL_ACCOUNTANT_SG,General Ledger Accountant for Singapore
+SAP_BR_GL_ACCOUNTANT_SK,General Ledger Accountant for Slovakia
+SAP_BR_GL_ACCOUNTANT_TR,General Ledger Accountant for Turkey
+SAP_BR_GL_ACCOUNTANT_TW,General Ledger Accountant for Taiwan
+SAP_BR_GL_ACCOUNTANT_ZA,General Ledger Accountant for South Africa
+SAP_BR_INTERNAL_SALES_REP,Internal Sales Representative
+SAP_BR_INTERNAL_SALES_REP_PRSV,Internal Sales Representative - Professional Services
+SAP_BR_INTRASTAT_SPECIALIST,Intrastat Specialist
+SAP_BR_INVENTORY_ACCOUNTANT,Cost Accountant - Inventory
+SAP_BR_INVENTORY_ACCOUNTANT_RU,Inventory Accountant for Russian Federation
+SAP_BR_INVENTORY_ANALYST,Inventory Analyst
+SAP_BR_INVENTORY_MANAGER,Inventory Manager
+SAP_BR_INVENTORY_MGR_RFM,Inventory Manager (Retail)
+SAP_BR_INVOICING_ADMIN_CINV,Administrator (Convergent Invoicing)
+SAP_BR_INVOICING_SPEC_CINV,Invoicing Specialist (Convergent Invoicing)
+SAP_BR_JVA_ACCOUNTANT,Joint Venture Accountant
+SAP_BR_LEGAL_COUNSEL,Legal Counsel
+SAP_BR_MAINTENANCE_PLANNER,Maintenance Planner
+SAP_BR_MAINTENANCE_TECHNICIAN,Maintenance Technician
+SAP_BR_MAINT_SUPERVISOR,Maintenance Supervisor
+SAP_BR_MASTER_DATA_IOG,Master Data Specialist (IOG)
+SAP_BR_MATL_PLNR_EXT_PROC,Material Planner - External Procurement
+SAP_BR_MATL_PLNR_JIT_S_TO_C,Material Planner - Just-In-Time Supply
+SAP_BR_MD_SPCLST_ITEM_RFM,Master Data Specialist - Product Data (Retail)
+SAP_BR_MD_SPCLST_SITE_RFM,Master Data Specialist - Location Data (Retail)
+SAP_BR_MD_SPECIALIST_JIT,Master Data Specialist - Just-In-Time Supply
+SAP_BR_MD_SPECIALIST_PCL,Master Data Specialist - Product Compliance
+SAP_BR_ORDER_FULFILLMNT_MNGR,Order Fulfillment Manager
+SAP_BR_ORDER_FULFILLMNT_SPCLST,Order Fulfillment Specialist
+SAP_BR_OVERHEAD_ACCOUNTANT,Cost Accountant - Overhead
+SAP_BR_PAYMENT_SPECIALIST,Payment Specialist
+SAP_BR_PLANT_MANAGER,Plant Manager
+SAP_BR_PRICING_SPECIALIST,Pricing Specialist
+SAP_BR_PRODN_ACCOUNTANT,Cost Accountant - Production
+SAP_BR_PRODN_ENG_DISC,Production Engineer - Discrete Manufacturing
+SAP_BR_PRODN_ENG_PROC,Production Engineer - Process Manufacturing
+SAP_BR_PRODN_OPTR_DISC,Production Operator - Discrete Manufacturing
+SAP_BR_PRODN_OPTR_LEAN_MFG,Production Operator - Lean Manufacturing
+SAP_BR_PRODN_OPTR_PROC,Production Operator - Process Manufacturing
+SAP_BR_PRODN_OPTR_RPTV,Production Operator - Repetitive Manufacturing
+SAP_BR_PRODN_PLNR,Production Planner
+SAP_BR_PRODN_PLNR_LEAN_MFG,Production Planner - Lean Manufacturing
+SAP_BR_PRODN_SUPERVISOR_DISC,Production Supervisor - Discrete Manufacturing
+SAP_BR_PRODN_SUPERVISOR_PROC,Production Supervisor - Process Manufacturing
+SAP_BR_PRODN_SUPERVISOR_RPTV,Production Supervisor - Repetitive Manufacturing
+SAP_BR_PRODN_SUPVR_LEAN_MFG,Production Supervisor - Lean Manufacturing
+SAP_BR_PRODSTWRD_SPLST_PCL,Product Stewardship Specialist - Product Compliance
+SAP_BR_PRODUCT_CONFIG_MODELER,Product Configuration Modeler
+SAP_BR_PROJECT_MANAGER_PROF,Project Manager - Professional Services
+SAP_BR_PURCHASER,Purchaser
+SAP_BR_PURCHASER_IN,Purchaser for India
+SAP_BR_QUALITY_ENGINEER,Quality Engineer
+SAP_BR_QUALITY_PLANNER,Quality Planner
+SAP_BR_QUALITY_TECHNICIAN,Quality Technician
+SAP_BR_RCVG_SPECIALIST_IOG,Receiving Specialist (IOG)
+SAP_BR_RECEIVING_SPECIALIST,Receiving Specialist
+SAP_BR_RECM_ADMINISTRATOR,Administrator - Leasing
+SAP_BR_RECM_AP_ACCOUNTANT,Accounts Payable Accountant - Leasing
+SAP_BR_RECM_AR_ACCOUNTANT,Accounts Receivable Accountant - Leasing
+SAP_BR_RECM_SALES_REPORTER,Contract Specialist - Sales Reporting
+SAP_BR_RECM_SPECIALIST,Contract Specialist - Leasing
+SAP_BR_RECM_VALSPECIALIST,Contract Valuation Specialist - Leasing
+SAP_BR_RECONC_SPEC_APR_FICA,Reconciliation Specialist - Accounts Payable and Receivable (FI-CA)
+SAP_BR_RECON_ACCOUNTANT,General Ledger Accountant - Intercompany
+SAP_BR_RETURNS_REFUND_CLERK,Returns and Refund Clerk
+SAP_BR_REV_ACCOUNTANT,Revenue Accountant
+SAP_BR_REV_ACCOUNTANT_IOG,Revenue Accountant (IOG)
+SAP_BR_RE_COST_ACCOUNTANT,Cost Accountant - Real Estate
+SAP_BR_RE_SPECIALIST_LOCAT,Real Estate Specialist - Location Management
+SAP_BR_RFM_STORE_ASSOCIATE,Retail Store Associate
+SAP_BR_SALES_ACCOUNTANT,Cost Accountant - Sales
+SAP_BR_SALES_MANAGER,Sales Manager
+SAP_BR_SALES_PROC_MGR_TEST,Order-to-Cash Process Manager Test
+SAP_BR_SC_ANALYST_IOG,Supply Chain Analyst (IOG)
+SAP_BR_SHIPPING_SPECIALIST,Shipping Specialist
+SAP_BR_SHIP_SPECIALIST_JIT,Shipping Specialist - Just-In-Time Supply
+SAP_BR_SOURCING_MANAGER,Sourcing Manager
+SAP_BR_TAX_SPECIALIST,Tax Specialist
+SAP_BR_TRANSP_PLANNER_IOG,Transportation Planner (IOG)
+SAP_BR_TRD_CLS_SPECIALIST,Trade Classification Specialist
+SAP_BR_TRD_CMPLNC_SPECIALIST,Trade Compliance Specialist
+SAP_BR_TREASURY_ACCOUNTANT,Treasury Accountant
+SAP_BR_TREASURY_RISK_MANAGER,Treasury Risk Manager
+SAP_BR_TREASURY_SPECIALIST_BOE,Treasury Specialist - Back Office
+SAP_BR_TREASURY_SPECIALIST_FOE,Treasury Specialist - Front Office
+SAP_BR_TREASURY_SPECIALIST_MOE,Treasury Specialist - Middle Office
+SAP_BR_WAREHOUSE_CLERK,Warehouse Clerk
+SAP_BR_WAREHOUSE_CLERK_EWM,Warehouse Clerk (EWM)
+SAP_BR_WAREHOUSE_CLERK_IOG,Warehouse Clerk (IOG)
+SAP_BR_WAREHOUSE_OPERATIVE_EWM,Warehouse Operative (EWM)

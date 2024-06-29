@@ -1,0 +1,2002 @@
+code,name,module_code
+AC,Accounting - General,AC
+AC-COB,Coding Block,AC
+AC-INT,Accounting Interface,AC
+AIE,Auto-ID Enterprise,AIE
+AIE-AII,Infrastructure,AIE
+AIE-AII-AP,Application,AIE
+AIE-AII-UI,User Interface,AIE
+AP-CFG,Product Configurator,AP
+AP-CFG-CBA,cBASE / Configuration Store,AP
+AP-CFG-LL,Low Level Configuration,AP
+AP-CME,Classification System (New),AP
+AP-LIM,AP-LIM Logistics Inventory Management Engine,AP
+AP-MD-BF-SYN,Master Data Synchronization,AP
+AP-MD-BF-TFW,Templates,AP
+AP-MD-BP,SAP Business Partner,AP
+AP-MD-BP-GRH,Account Hierarchy,AP
+AP-MD-BP-UI,Dialog SAP-GUI,AP
+AP-MD-IBA,Installed Base,AP
+AP-MD-IL,Relationships Between Objects with GUID Identification,AP
+AP-MD-IL-XTN,Generated Enhancements (Easy Enhancement Workbench),AP
+AP-MD-PCA,Payment Cards,AP
+AP-MD-PRO,Central Part of Product Master,AP
+AP-MD-PRO-BF-ARC,Archiving,AP
+AP-MD-PRO-CAT,Hierarchies and Categories,AP
+AP-MD-PRO-TFW,Templates,AP
+AP-MD-PRO-UI,Dialog SAP-GUI,AP
+AP-PPE,Integrated Product and Process Engineering,AP
+AP-PRC-CON,Condition Technique,AP
+AP-PRC-FG,Free goods,AP
+AP-PRC-PR,Pricing,AP
+AP-PRC-PRS,Product Substitution,AP
+AP-RC-BOF-CFN,Business Object Processing Framework Configuration,AP
+AP-RC-BOF-TST,Business Object Processing Framework Tests,AP
+AP-TTE,Transaction Tax Engine,AP
+BC,Basis Components,BC
+BC-ABA,ABAP Runtime Environment,BC
+BC-ABA-LA,"Syntax, Compiler, Runtime",BC
+BC-ABA-LA-EPC,Extended Program Check (SLIN),BC
+BC-ABA-LA-OBS,Object Services,BC
+BC-ABA-SC,"UI Services, Screen, Batch Input",BC
+BC-ABA-TO,"Logical DB, Selection Screens, Selection Variants",BC
+BC-ABA-TV,Transaction Variant and Table Control Settings,BC
+BC-ABA-XML,ABAP XML Processing,BC
+BC-BMT-BPM-LEI,Local Event Infrastructure,BC
+BC-BMT-OM,Organizational Management,BC
+BC-BMT-OM-GRF,Structural Graphics,BC
+BC-BMT-OM-OM,Organizational Plan,BC
+BC-BMT-WFM,SAP Business Workflow,BC
+BC-BMT-WFM-RUN,Runtime,BC
+BC-BMT-WMD,Workflow Modeler,BC
+BC-BSP,Business Server Pages,BC
+BC-BW,BW Service API,BC
+BC-BW-SRV,BW Generation Tool and Set Object,BC
+BC-CCM-ADK,Archive Development Kit,BC
+BC-CCM-ADK-AS,Archive Information System,BC
+BC-CCM-API-CSI-XMI,eXternal Management Interface Framework,BC
+BC-CCM-BTC,Background Processing,BC
+BC-CCM-CNF-GRP,Workload Balancing and Group Management,BC
+BC-CCM-CNF-PFL,Maintain Profile,BC
+BC-CCM-DAG,Data Aging,BC
+BC-CCM-FIL,Platform-Independent File Names,BC
+BC-CCM-MON,Monitoring,BC
+BC-CCM-MON-ORA,Oracle Database Monitors,BC
+BC-CCM-MON-OS,Operating System Monitors,BC
+BC-CCM-MON-SHM,IMS:  Agents and related topics,BC
+BC-CCM-MON-SLG,SAP System Log,BC
+BC-CCM-MON-TUN,Performance Monitors (TCC),BC
+BC-CCM-PRN,Print and Output Management,BC
+BC-CCM-SLD-ABA,System Landscape Directory ABAP Connectivity,BC
+BC-CCM-TAN,Transaction TAANA for Table Analysis,BC
+BC-CFG-RT,Business Configuration Tools: Runtime,BC
+BC-CI-WEBR,"WebRFC, Web Reporting",BC
+BC-CST,Client/Server Technology,BC
+BC-CST-EQ,Enqueue,BC
+BC-CST-GW,Gateway/CPIC,BC
+BC-CST-IC,Internet Communication Manager,BC
+BC-CST-LL,Low Level Layer,BC
+BC-CST-MS,Message Service,BC
+BC-CTS,Change & Transport System,BC
+BC-CTS-CCO,Client Copy,BC
+BC-CTS-LAN,Language Transport,BC
+BC-CTS-ORG,Transport Organizer,BC
+BC-CTS-TMS,Transport Management System,BC
+BC-CTS-TMS-CTR,Central CTS # Transport Management,BC
+BC-CUS-TOL,Customizing Tools (Techniques),BC
+BC-CUS-TOL-ALO,Table History,BC
+BC-CUS-TOL-BCD,Business Configuration Sets,BC
+BC-CUS-TOL-CST,Cross-System Tools,BC
+BC-CUS-TOL-HMT,Hierarchy Storage,BC
+BC-CUS-TOL-IMG,Implementation Guide,BC
+BC-CUS-TOL-NAV,Business Navigator,BC
+BC-CUS-TOL-PAD,Customizing Project Management (IMG),BC
+BC-CUS-TOL-TME,Table Maintenance Tool,BC
+BC-DB,"Database Interface, Database Platforms",BC
+BC-DB-DB2,DB2 for z/OS,BC
+BC-DB-DB4,DB2 for AS/400,BC
+BC-DB-DB6,DB2 Universal Database for UNIX / NT,BC
+BC-DB-INF-CCM,CCMS / Database Monitors for Informix,BC
+BC-DB-LCA,liveCache Applications,BC
+BC-DB-LVC,liveCache,BC
+BC-DB-MSS,Microsoft SQL Server,BC
+BC-DB-ORA-CCM,CCMS / Database Monitors for Oracle,BC
+BC-DB-SDB,MaxDB,BC
+BC-DOC-DTL,Documentation Tools,BC
+BC-DOC-HLP,F1 Help,BC
+BC-DOC-IWB,SAP Knowledge Warehouse,BC
+BC-DOC-RIT,Replacing standard texts with industry specific texts,BC
+BC-DOC-TER,Terminology/Glossary,BC
+BC-DOC-TTL,Translation Tools,BC
+BC-DWB,"ABAP Workbench, Java IDE and Infrastructure",BC
+BC-DWB-AIE,Installation and Infrastructure for ABAP Tools in Eclipse,BC
+BC-DWB-AIE-ACI,ABAP Connectivity and Integration Tools,BC
+BC-DWB-AIE-REF,Tools for Refactoring ABAP Artifacts,BC
+BC-DWB-AIE-SRC,ABAP Source Code editors in ABAP in Eclipse,BC
+BC-DWB-CEX,Customer Enhancements,BC
+BC-DWB-DIC-AC,"Activation Program, Conversion Program, DB Utility, MC, SPDD",BC
+BC-DWB-DIC-ED,Dictionary Maintenance,BC
+BC-DWB-DIC-F4,F4 Help,BC
+BC-DWB-PRX,Proxy Generation,BC
+BC-DWB-SEM,Session Manager,BC
+BC-DWB-TOO,"Workbench Tools: Editors, Painters, Modelers",BC
+BC-DWB-TOO-ABA,ABAP Editor,BC
+BC-DWB-TOO-ATF,"ABAP Test Frameworks ( ATC, CheckMan, Code Inspector)",BC
+BC-DWB-TOO-BOB,Business Object Builder,BC
+BC-DWB-TOO-CLA,Class Builder,BC
+BC-DWB-TOO-COV,Coverage Analyzer,BC
+BC-DWB-TOO-DMO,Data Modeler,BC
+BC-DWB-TOO-ENH,Enhancement Tools,BC
+BC-DWB-TOO-FUB,Function Builder,BC
+BC-DWB-TOO-LDB,Logical Database Builder,BC
+BC-DWB-TOO-MEN,Menu Painter,BC
+BC-DWB-TOO-PAK,Package Tools,BC
+BC-DWB-TOO-RTA,Runtime Analysis,BC
+BC-DWB-TOO-SCR,Screen Painter,BC
+BC-DWB-TOO-SFW,Switch Framework Tools,BC
+BC-DWB-TOO-UT,ABAP Unit,BC
+BC-DWB-TOO-WAB,Web Application Builder,BC
+BC-DWB-UTL,Workbench Utilities,BC
+BC-DWB-UTL-BRC,Class Browser,BC
+BC-DWB-UTL-BRR,Repository Browser,BC
+BC-DWB-UTL-CLS,Classification Toolset,BC
+BC-DWB-WS-ABA,Web Service Tools - ABAP,BC
+BC-ECM-ABA,ECM ABAP Stack,BC
+BC-ECM-ABA-COR,ECM Core Infrastructure,BC
+BC-EIM-ESH,NetWeaver Enterprise Search,BC
+BC-EIM-IQM-IC,Information Consistency,BC
+BC-EIM-ODP,Operational Data Provisioning (ODP) in Search&Analytics,BC
+BC-ESI,Enterprise Service Infrastructure,BC
+BC-ESI-ESF,Enterprise Service Framework Layer,BC
+BC-ESI-ESF-GW,Gateway Integration for CDS and BOPF via SADL,BC
+BC-ESI-SAM,Status and Action Management,BC
+BC-ESI-SEW,Service Extension Workbench,BC
+BC-ESI-SIW,Service Implementation Workbench,BC
+BC-ESI-WS-ABA-CFG,WebServices ABAP Configuration,BC
+BC-ESI-WS-ABA-MON,WebServices ABAP Monitoring,BC
+BC-ESI-WS-ABA-RT,WebServices ABAP Runtime,BC
+BC-FES-BUS,Netweaver Business Client,BC
+BC-FES-CTL,SAP GUI for Windows Controls,BC
+BC-FES-CTL-F4,Use BC-FES-CTL (SAP Note 835896),BC
+BC-FES-GRA,Graphic,BC
+BC-FES-GUI,Graphical User Interface,BC
+BC-FES-ITS,SAP Internet Transaction Server,BC
+BC-GP,Guided Procedure,BC
+BC-HLP-ABA,Help Infrastructure for ABAP,BC
+BC-I18,Internationalization (I18N),BC
+BC-I18-UNI,I18N Unicode,BC
+BC-ILM-ACA,Archiving Connector ABAP,BC
+BC-ILM-CDE,Context Data Extractor,BC
+BC-ILM-CHK,Checksums,BC
+BC-ILM-DST,Data Destruction,BC
+BC-ILM-IRM,Information Retention Manager,BC
+BC-ILM-IRM-RT,IRM Run Time,BC
+BC-ILM-LCM,Legal Case Management for ILM,BC
+BC-ILM-RW,Retention Warehouse,BC
+BC-ILM-SRS,Storage and Retention Service,BC
+BC-ILM-WP,ILM Workplace,BC
+BC-INS-TC-RT,Runtime for ABAP based automated TC,BC
+BC-MID-AC,ABAP Channels,BC
+BC-MID-ALE,ALE Integration Technology,BC
+BC-MID-ALE-UTI,Tools,BC
+BC-MID-API,BAPI Tools (for BAPIs see Note 813411),BC
+BC-MID-ICF,Internet Communication Framework,BC
+BC-MID-RFC,RFC,BC
+BC-MID-RFC-BG,Background RFC (bgRFC),BC
+BC-MOB,SAP NetWeaver Mobile - Use subcomponents,BC
+BC-MUS,Musing Tools,BC
+BC-MUS-FPB,Personalization Framework,BC
+BC-MUS-KFM,Key Figure Monitor,BC
+BC-MUS-LP,Launchpad,BC
+BC-MUS-POW,Personal Object Worklist,BC
+BC-PER-DR,Personas Data Repository,BC
+BC-RRR-SAA,System Administration Assistant,BC
+BC-SEC,Security,BC
+BC-SEC-AIS,System Audit Information System,BC
+BC-SEC-AUT,Authorization Management,BC
+BC-SEC-AUT-PFC,ABAP Authorization and Role Management,BC
+BC-SEC-DIR,Directory,BC
+BC-SEC-LGN,Authentication and SSO,BC
+BC-SEC-LGN-SML,SAML 2.0,BC
+BC-SEC-RAL,Read Access Logging,BC
+BC-SEC-SNC,Secure Network Communications,BC
+BC-SEC-SSF,Secure Store and Forward,BC
+BC-SEC-USR,User Administration,BC
+BC-SEC-USR-ADM,User and Authorization Management,BC
+BC-SEC-USR-IS,User Information System,BC
+BC-SEC-VIR,Anti-Virus Protection,BC
+BC-SRV,Basis Services / Communication Interfaces,BC
+BC-SRV-ADR,Address Management/Business Address,BC
+BC-SRV-ALV,SAP List Viewer,BC
+BC-SRV-ARL,ArchiveLink,BC
+BC-SRV-ASF-AT,Audit trail enhancements (ILM),BC
+BC-SRV-ASF-CAL,"Holiday Calendar, Factory Calendar, Appointment Calendar",BC
+BC-SRV-ASF-CHD,Change Documents,BC
+BC-SRV-ASF-FYV,Service functions for fiscal year versions,BC
+BC-SRV-ASF-UOM,Units of Measurement,BC
+BC-SRV-BAL,Basis Application Log,BC
+BC-SRV-BDS,Business Document Service,BC
+BC-SRV-BR,BRFplus - ABAP-Based Business Rules,BC
+BC-SRV-BRF,Business Rule Framework,BC
+BC-SRV-BSF,Business Service Functions,BC
+BC-SRV-BSF-CUR,Currency Conversion/Expiring Currency,BC
+BC-SRV-CM,Case Management,BC
+BC-SRV-COM,"Communication Services: Mail, Fax, SMS, Telephony",BC
+BC-SRV-COM-FTP,File Transfer Using FTP,BC
+BC-SRV-CSL,Cross System Lock,BC
+BC-SRV-DMC,Data Conversion,BC
+BC-SRV-DX-DXW,Data Transfer Workbench,BC
+BC-SRV-DX-LSM,Legacy System Migration Workbench,BC
+BC-SRV-FP,Forms Processing,BC
+BC-SRV-FSI,Fast Search Infrastructure,BC
+BC-SRV-GBT-ALM,Alert Framework,BC
+BC-SRV-GBT-CAL,Appointment Calendar,BC
+BC-SRV-GBT-DRB,Document Relationship Browser,BC
+BC-SRV-GBT-GOS,Generic Object Services,BC
+BC-SRV-GBT-OBL,General Object Relations,BC
+BC-SRV-GBT-PPF,Post Processing Framework,BC
+BC-SRV-GEO,Geographical Functions,BC
+BC-SRV-KPR-CMS,Content Management Service,BC
+BC-SRV-KPR-DMF,Document Management Framework,BC
+BC-SRV-KPR-DMS,Document Management Services,BC
+BC-SRV-KPR-RET,Text Retrieval and Information Extraction,BC
+BC-SRV-LIM,License Measurement,BC
+BC-SRV-NBC,NetWeaver Business Content,BC
+BC-SRV-NUM,Number Range Management,BC
+BC-SRV-NWD,NetWeaver Demonstration,BC
+BC-SRV-NWD-XBR,HANA Reference Applications,BC
+BC-SRV-OTR,Online Text Repository,BC
+BC-SRV-PCO,Plant Connectivity (Pco): ABAP part,BC
+BC-SRV-PMI,Process Monitoring Infrastructure,BC
+BC-SRV-PS,Productivity Services,BC
+BC-SRV-QUE,SAP Query,BC
+BC-SRV-REP,Report Tree,BC
+BC-SRV-RM,SAP Records Management,BC
+BC-SRV-SCR,SAPscript,BC
+BC-SRV-SEN,ABAP Search Engine for ERP Solution Database,BC
+BC-SRV-SSF,Smart Forms,BC
+BC-SRV-STW,Social Media ABAP Integration Library,BC
+BC-SRV-TFW,Tagging Framework,BC
+BC-SRV-TIM-TR,Date Rules,BC
+BC-SRV-TIM-TS,Time streams,BC
+BC-SRV-TIM-TZ,Time Zones,BC
+BC-SRV-UKM,Standardized Key Mapping,BC
+BC-TRX-API,TREX ABAP + JAVA API,BC
+BC-TRX-SES,TREX Search Engine Service,BC
+BC-TWB-ORG,Test Organizer,BC
+BC-TWB-TST-CAT,CATT Computer Aided Test Tool,BC
+BC-TWB-TST-ECA,eCATT Extended Computer Aided Test Tool,BC
+BC-TWB-TST-P-GPA,Global Performance Analysis (Transaction ST30),BC
+BC-TWB-TST-P-PA,Performance Analysis (Transaction ST05),BC
+BC-TWB-TST-TCK,ATC extensions for Technical Check,BC
+BC-UPG,Upgrade - General,BC
+BC-UPG-NA,SAP Note Assistant,BC
+BC-UPG-OCS,Online Correction Support (Support Package and Add-On Tools),BC
+BC-UPG-TLS,Upgrade Tools,BC
+BC-UPG-TLS-TLA,Upgrade Tools for ABAP,BC
+BC-VMC,Virtual Machine Container,BC
+BC-WD,Web Dynpro,BC
+BC-WD-ABA,Web Dynpro ABAP,BC
+BC-WD-ABA-PB,WD ABAP Page Builder,BC
+BC-WD-ABA-RUN,Web Dynpro ABAP Runtime,BC
+BC-WD-ACF,Bitte Unterkomponenten verwenden (Hinweis 1665488),BC
+BC-WD-CMP-ALV-ABA,Web Dynpro ALV for ABAP,BC
+BC-WD-CMP-ATS,ABAP Table/Tree Services,BC
+BC-WD-CMP-FPM,Floorplan Manager Web Dynpro ABAP,BC
+BC-XI,Exchange Infrastructure,BC
+BC-XI-IBC,Integration Builder - Configuration,BC
+BC-XI-IBD,Integration Builder - Design,BC
+BC-XI-IS,Integration Server,BC
+BC-XI-IS-BPE,Business Process Engine,BC
+BC-XI-IS-IEN,Integration Engine,BC
+BC-XI-IS-WKB,Runtime Workbench/Monitoring,BC
+BW,Without Description,BW
+BW-BCT,Without Description,BW
+BW-BCT-ANA,BI Content Analyzer,BW
+BW-BCT-BBP,Business-to-Business Procurement,BW
+BW-BCT-CO-OM,Management of Internal Controls,BW
+BW-BCT-CPG-CMC,Categorie Management Consumer Products,BW
+BW-BCT-CRM,Customer Relationship Management,BW
+BW-BCT-DOC,Documentation,BW
+BW-BCT-FI,Financial Accounting,BW
+BW-BCT-FS-TB,Transaction Banking,BW
+BW-BCT-GEN,BI Content - Generic,BW
+BW-BCT-GRC,Governance Risk and Compliance,BW
+BW-BCT-ICH,Inventory Collaboration Hub,BW
+BW-BCT-IM,Investment Management,BW
+BW-BCT-ISM,Media,BW
+BW-BCT-ISM-IPM,Intellectual Property Management,BW
+BW-BCT-ISR,Retail and Consumer Goods,BW
+BW-BCT-ISR-AA,Analytical Applications,BW
+BW-BCT-ISR-LPA,Loss Prevention Analytics,BW
+BW-BCT-ISR-PIP,Point of Sales Inbound Processing Engine,BW
+BW-BCT-ISR-PRM,Promotion Analytics,BW
+BW-BCT-ISR-RSL,Retail Stock Ledger,BW
+BW-BCT-PA,Personnel Management,BW
+BW-BCT-PLA-MCB,PLM Maintenance Cost Budgeting,BW
+BW-BCT-PLA-RAP,Retail Assortment Planning,BW
+BW-BCT-PLA-RMP,Retail Merchandise Planning,BW
+BW-BCT-PLA-RSM,Retail Slow Seller Management,BW
+BW-BCT-PP-AHD,Alternative historical data,BW
+BW-BCT-PS,Project System,BW
+BW-BCT-PSM,Public Sector Management,BW
+BW-BCT-SCM,Supply Chain Management Content,BW
+BW-BCT-SPL-SDR,Supplier Delivery Performance Rating,BW
+BW-BCT-SPL-SFA,Service Fill Analysis,BW
+BW-BCT-TCT,Technical Content,BW
+BW-BCT-TE,Telecommunications,BW
+BW-BCT-TMS,Transportation Management (no software transports),BW
+BW-BEX,Without Description,BW
+BW-BEX-ET,End User Technology,BW
+BW-BEX-OT,OLAP Technology,BW
+BW-BEX-OT-BICS-EQ,BICS Easy Query,BW
+BW-BEX-OT-BICS-INA,BW INA provider,BW
+BW-BEX-OT-BICS-RSRT,BICS Query Monitor,BW
+BW-BEX-UDI,Universal Data Integration,BW
+BW-EI,Expanded Infrastructure,BW
+BW-EI-APD,Analysis Process Designer,BW
+BW-EI-DM,Data Mining,BW
+BW-PLA,Planning,BW
+BW-PLA-BPC-INF,BPC 'unified model' - Infrastructure,BW
+BW-PLA-BPS,Business Planning and Simulation,BW
+BW-SYS-DB-DB2,BW DB2 for OS/390,BW
+BW-SYS-DB-DB6,BW DB2 Universal Database,BW
+BW-SYS-DB-MSS,BW Microsoft SQL Server,BW
+BW-WHM,Without Description,BW
+BW-WHM-AWB,Data Warehousing Workbench,BW
+BW-WHM-DBA,Data Basis,BW
+BW-WHM-DST,Data Staging,BW
+BW-WHM-DST-HAP,HANA Analysis Process,BW
+BW-WHM-MTD,Metadata (Repository),BW
+BW-WHM-MTD-HMOD,HANA Model Generation in BW,BW
+CA,Cross-Application Components,CA
+CA-ARC,Archiving,CA
+CA-ATP-CNT,,CA
+CA-AUD,Audit Management,CA
+CA-BFA,Business Framework Architecture,CA
+CA-BFA-ABL,ALE Business Process Library,CA
+CA-BFA-TRA,Transceiver,CA
+CA-BK,Bank,CA
+CA-CAD,CAD Integration,CA
+CA-CL,Classification,CA
+CA-CL-CHR,Characteristics,CA
+CA-CL-CL,Classification,CA
+CA-CL-CLS,Classes,CA
+CA-CL-ENV,Environment,CA
+CA-CL-SEL,Object Selection,CA
+CA-CUS,Global Organization Customizing,CA
+CA-DMS,Document Management System,CA
+CA-DMS-CNV,DMS Integration for Viewer/CAD intergration,CA
+CA-DSG,Digital Signature,CA
+CA-EDI,IDoc Interfaces for EDI,CA
+CA-EPT,Processes and Tools for Enterprise Applications,CA
+CA-EPT-ANL,Analytics Infrastructure,CA
+CA-EPT-ANL-ACT,Content Activation,CA
+CA-EPT-ANL-BIA,Operational BIA,CA
+CA-EPT-ANL-OIP,Operational Information Provider,CA
+CA-EPT-BCV,Business Context Viewer,CA
+CA-EPT-BRC,Reusable Components of Business Suite Foundation,CA
+CA-EPT-BRC-PPF,Post Processing Framework Adapter,CA
+CA-EPT-GEN,GENeric Integer Optimizer System,CA
+CA-EPT-GIS,Geographical Information System,CA
+CA-EPT-HCF,Healthcare Communication Framework,CA
+CA-EPT-IBO,Suite Inbox,CA
+CA-EPT-KME,Key Mapping Extension,CA
+CA-EPT-NAV,Object Navigator,CA
+CA-EPT-POC,Process Orchestration for Built-In Processes,CA
+CA-EPT-RCC,Remote Control and Communication Framework,CA
+CA-EPT-SMI,Social Media Intelligence Foundation,CA
+CA-EPT-SPI,Service Provider Infrastructure,CA
+CA-EPT-SPI-FSI,FPM SPI Integration,CA
+CA-EPT-SSC,Shared Service Center Framework,CA
+CA-EPT-TM,Talent Management,CA
+CA-EPT-VE-VEG,Visual Enterprise Generator,CA
+CA-EPT-VWR,Viewer,CA
+CA-ESS,Employee Self-Service,CA
+CA-EUR,European Monetary Union: Euro,CA
+CA-EUR-CNV,Local Currency Changeover,CA
+CA-EUR-CUR,Currency Customizing and Handling for Euro,CA
+CA-FIM-FCO,Financial Conditions,CA
+CA-FIM-FMA,Financial Mathematics,CA
+CA-FS-AD,Link Between Address Management and Objects,CA
+CA-FS-ARE,Archiving Engine,CA
+CA-FS-BP,Business Partner Enhancements for Financial Services,CA
+CA-FS-ECH,Error and Conflict Handler,CA
+CA-FS-HDS,Hierarchical Derivation Service,CA
+CA-FS-MKD,Basic Market Data,CA
+CA-GTF,General Application Functions,CA
+CA-GTF-ANA-CNT-EMB,,CA
+CA-GTF-AP-AP,Appraisal Systems,CA
+CA-GTF-AP-PM,"Appraisal, Valuation, and Survey Tool",CA
+CA-GTF-BS,Business Application Support,CA
+CA-GTF-BS-SQ,Screen Sequence Control,CA
+CA-GTF-CBN-ODT,Contextual Business Navigation OData Backend Adaptation lay.,CA
+CA-GTF-COR,Correspondence Tool,CA
+CA-GTF-CPE,Commodity Pricing Engine,CA
+CA-GTF-CSC,Country-Specific Objects,CA
+CA-GTF-CSC-DRC-PRC,,CA
+CA-GTF-DCM,Data Transfer,CA
+CA-GTF-DEP,Object Dependencies,CA
+CA-GTF-DOB,Document Builder,CA
+CA-GTF-DRT,Data Retention Tool,CA
+CA-GTF-ECM,Engineering Change Management,CA
+CA-GTF-EEW,Easy Enhancement Workbench,CA
+CA-GTF-EEW-SRV,EEW Services,CA
+CA-GTF-FCC,Financial Closing cockpit Add-on,CA
+CA-GTF-FND,,CA
+CA-GTF-GDP,Data Access in Agreement with German Tax Law,CA
+CA-GTF-GL,Cross-Application Services General Ledger,CA
+CA-GTF-HCM-CNT,,CA
+CA-GTF-IC,Interaction Center WebClient,CA
+CA-GTF-IC-ACC,Activity Clipboard,CA
+CA-GTF-IC-CHA,Communication Channel,CA
+CA-GTF-IC-FRW,Framework,CA
+CA-GTF-IC-SAF,Software Agent Framework,CA
+CA-GTF-IC-SCR,Scripting,CA
+CA-GTF-INT-ARI,,CA
+CA-GTF-INT-FG,,CA
+CA-GTF-MDF,Master Data Framework,CA
+CA-GTF-MIG,,CA
+CA-GTF-MS,Cross-Application Mass Maintenance,CA
+CA-GTF-PCF,People Centric UI Framework,CA
+CA-GTF-PCF-CUS,People-Centric UI Framework Customizing,CA
+CA-GTF-PCU-BP,Dialog People-Centric UI for Business Partner,CA
+CA-GTF-PCU-PRO,Dialog People-Centric UI for Products,CA
+CA-GTF-PR-CPF,Configurable Parameters and Formulas,CA
+CA-GTF-PWB,Print Workbench,CA
+CA-GTF-QR,Qualifications and Requirements,CA
+CA-GTF-RCM,Records and Case Management,CA
+CA-GTF-SCM,Schedule Manager,CA
+CA-GTF-SP,Business Suite Sidepanel,CA
+CA-GTF-SP-FIN,Content for ERP Financials,CA
+CA-GTF-SP-GEN,Generic Applications,CA
+CA-GTF-TRB,Financial Risk Management Basis,CA
+CA-GTF-TS,Technical Application Support,CA
+CA-GTF-TS-BRHF,"Basis-Related Help Functions, Appl. Log, Formula Intepreter",CA
+CA-GTF-TS-CD,Change Document Display and Time Stamp Management,CA
+CA-GTF-TS-CNS,Change Pointer Service,CA
+CA-GTF-TS-FAW,Central Field Selection,CA
+CA-GTF-TS-GC,Link to Geographic Information System,CA
+CA-GTF-TS-GMA,"Generating, Monitoring for Mass Data Archiving Solutions",CA
+CA-GTF-TS-PDC,Framework for the Principle of Dual Control,CA
+CA-GTF-TS-PGC,Persistent Garbage Collector,CA
+CA-GTF-TS-PPM,Batch-Oriented Parallel Processing of Mass Data,CA
+CA-GTF-TS-PPO,Postprocessing Office,CA
+CA-GTF-TS-SMT,General status management,CA
+CA-GTF-TS-WSI,"Integration of Catalogs, Partner Directories (OCI, OPI)",CA
+CA-GTF-UPS,Distribution Unit / Distribution Packet,CA
+CA-GTF-VBZ,Visual Business,CA
+CA-GTF-WUI,WebClient UI - External Features,CA
+CA-GTF-XF,SAP Expert Finder,CA
+CA-HR,Cross-Application Objects in HR,CA
+CA-JVA,Joint Venture und Production Sharing Accounting,CA
+CA-JVA-PRC,Project Risk Management for Contractors,CA
+CA-MDG,Master Data Governance,CA
+CA-MDG-AF,Application Framework,CA
+CA-MDG-APP,Applications,CA
+CA-MDG-APP-BP,MDG Business Partner (Central Part),CA
+CA-MDG-APP-CUS,MDG Customer (Central Parts),CA
+CA-MDG-APP-FIN,MDG for Financials,CA
+CA-MDG-APP-ISS,Internal Self-Services,CA
+CA-MDG-APP-MM,MDG Material,CA
+CA-MDG-APP-SUP,MDG Supplier (Central Parts),CA
+CA-MDG-DQ,Data Quality,CA
+CA-MDG-DRF,Data Replication Framework,CA
+CA-MDG-DT,Design Time,CA
+CA-MDG-KM,Key Mapping,CA
+CA-MDG-ML,Mass Load,CA
+CA-MDG-RIF,Replication Interface Framework,CA
+CA-MDG-TRR,Transport Registry,CA
+CA-MDG-VM,Value Mapping,CA
+CA-MOB-MIB,Mobile Productivity Applications,CA
+CA-MRS,SAP Multiresource Scheduling,CA
+CA-NO,Messages,CA
+CA-OIW,Open Information Warehouse,CA
+CA-SOA,Enterprise SOA,CA
+CA-SOA-GEN,Generic eSOA Tools,CA
+CA-SOA-SMT,Service Mapping Tool,CA
+CA-SUR,Web Survey,CA
+CA-TS,Time Sheet,CA
+CA-UI2,SAP UI for Decoupled Innovations,CA
+CA-UI2-AR-SM,SAP UI Integration - Social Media Collaboration Enablement,CA
+CA-UI2-INT-BE,Backend Enablement,CA
+CA-UI2-THD,Theme Designer,CA
+CA-UI2-VBZ,Visual Business -> please use CA-GTF-VBZ,CA
+CA-VE-VEP-INT,Visual Enterprise Planner integration with ERP,CA
+CA-WUI,WebClient UI,CA
+CA-WUI-APF,Application Frame,CA
+CA-WUI-BI,BI Integration,CA
+CA-WUI-CON,UI Configuration & Design Layer,CA
+CA-WUI-EP,UI Portal Integration,CA
+CA-WUI-ES,Enterprise Search Integration,CA
+CA-WUI-GOL-BOL,Business Object Layer,CA
+CA-WUI-GOL-GIL,Generic Interaction Layer,CA
+CA-WUI-UI,User Interface,CA
+CA-WUI-UI-RT,UI Runtime Environment,CA
+CA-WUI-UI-TAG,Tag Library,CA
+CA-WUI-WKB,Development Workbench,CA
+CA-WUI-WST,Web Services Tool,CA
+CO,Controlling,CO
+CO-OM,Overhead Cost Controlling,CO
+CO-OM-ABC,Activity-Based Costing,CO
+CO-OM-ACT,Activity Types,CO
+CO-OM-CCA,Cost Center Accounting,CO
+CO-OM-CEL,Cost Element Accounting,CO
+CO-OM-IS,"Information System, iViews",CO
+CO-OM-OPA,Overhead Cost Orders,CO
+CO-OM-OPA-PL-MA,Manual Order Planning,CO
+CO-OM-PRO-PL-CP,Cost Planning in the WBS,CO
+CO-PA,Profitability Analysis,CO
+CO-PA-ACT,Flows of Actual Values,CO
+CO-PA-TO,Tools,CO
+CO-PC,Product Cost Controlling,CO
+CO-PC-ACT,Actual Costing/Material Ledger,CO
+CO-PC-ACT-AVR,Alternative Valuation Run,CO
+CO-PC-ACT-DUV,Distribution of Usage Variances,CO
+CO-PC-ACT-PER,Periodic Material Valuation,CO
+CO-PC-ACT-PRU,Price Change,CO
+CO-PC-IS,Report Selection for Product Costing,CO
+CO-PC-OBJ,Cost Object,CO
+CO-PC-OBJ-PER,Product Cost by Period,CO
+CO-PC-PCP,Product Cost Planning,CO
+CO-PC-PCP-WQS,Cost Estimate with Quantity Structure,CO
+CRM,Customer Relationship Management,CRM
+CRM-ACE,Access Control Engine,CRM
+CRM-ACP-APL,Account Planner,CRM
+CRM-ANA,CRM Analytics,CRM
+CRM-ANA-BOJ-UI,CRM Analytics Business Objects UI,CRM
+CRM-ANA-EXT,Extraction Technology,CRM
+CRM-ANA-MKT-SEG,BW Interfaces for Segment Builder,CRM
+CRM-ANA-MSA-WBI,Workbook Import from BW,CRM
+CRM-ANA-OR,Interactive Reporting,CRM
+CRM-ANA-PPM-QP,Quota Planning,CRM
+CRM-ANA-PS,Planning Services,CRM
+CRM-ANA-RPL-TGT,Miscellaneous Data Targets in CRM,CRM
+CRM-ANA-RT,Intelligence Connector (Real-time Analytics),CRM
+CRM-ANA-SRV,Service Analytics,CRM
+CRM-ANA-SRV-BW,BW Data Exchange,CRM
+CRM-BE,Billing,CRM
+CRM-BE-FI,Transfer to Accounting,CRM
+CRM-BE-FRW,Billing Engine Framework,CRM
+CRM-BE-OC,Action Processing,CRM
+CRM-BF,Basic Functions,CRM
+CRM-BF-ACI,Actions,CRM
+CRM-BF-AR,Archiving,CRM
+CRM-BF-ATT,Additional Attributes for Objects,CRM
+CRM-BF-BRF-RM,BRF Plus Rule Modeller,CRM
+CRM-BF-CAT,Catalogs,CRM
+CRM-BF-CD,Campaign Determination,CRM
+CRM-BF-CFG,Product Configuration,CRM
+CRM-BF-CM,Credit Management,CRM
+CRM-BF-COM,Content Management,CRM
+CRM-BF-COU,Counter,CRM
+CRM-BF-CPE,Engine for Commodity Pricing in CRM,CRM
+CRM-BF-CPE-PR,CPE in the CRM-Specific IPC,CRM
+CRM-BF-DAM,Third party Digital Asset Management integration,CRM
+CRM-BF-DAT,Date Management,CRM
+CRM-BF-E2C,CRM on Email,CRM
+CRM-BF-EEW,Easy Enhancement Workbench,CRM
+CRM-BF-GC,Gift Certificate Management,CRM
+CRM-BF-IIA,Interactive Intelligent Agent,CRM
+CRM-BF-IL,Interlinkages,CRM
+CRM-BF-IO,Interaction Object,CRM
+CRM-BF-ML,E-Mail Management,CRM
+CRM-BF-OFI,Determination of Organizational Units,CRM
+CRM-BF-PD,Partner Processing,CRM
+CRM-BF-PME,Product Modeling Environment,CRM
+CRM-BF-PR,Pricing,CRM
+CRM-BF-SAF,Software Agent Framework,CRM
+CRM-BF-SC,Solution Configurator for Packages,CRM
+CRM-BF-SMS,Short Message Service,CRM
+CRM-BF-SVY,Survey Suite,CRM
+CRM-BF-SWI,Integration of SAP Jam with SAP CRM,CRM
+CRM-BF-TAX,Tax Determination,CRM
+CRM-BF-TM,Text Management,CRM
+CRM-BF-WFI,Workflow Inbox PC-UI,CRM
+CRM-BF-XIF,External Interfaces: Basic Functions,CRM
+CRM-BTX,Business Transactions,CRM
+CRM-BTX-ACT,Activity Management,CRM
+CRM-BTX-ANA-RFW,Reporting Framework,CRM
+CRM-BTX-BF,Basic Functions for Business Transactions,CRM
+CRM-BTX-BF-ACI,Actions/Output Determination for Business Transactions,CRM
+CRM-BTX-BF-ATP,Availability Check,CRM
+CRM-BTX-BF-AU,Authorization Check,CRM
+CRM-BTX-BF-BPL,Billing Plan,CRM
+CRM-BTX-BF-BRF,Integration Business Rules Framework in the Bus. Transaction,CRM
+CRM-BTX-BF-CAT,Categorization and Reference Object in Transactions,CRM
+CRM-BTX-BF-CD,"Campaign Determination, Multiple Promotions",CRM
+CRM-BTX-BF-CFG,Product Configuration,CRM
+CRM-BTX-BF-CPE,CPE in the Business Transaction,CRM
+CRM-BTX-BF-DUP,Deduplicate One Order Objects,CRM
+CRM-BTX-BF-ENT,Integration of Entitlement Management,CRM
+CRM-BTX-BF-FIN,Financing,CRM
+CRM-BTX-BF-IF,R/3 Interface for Business Transactions,CRM
+CRM-BTX-BF-INV,Investigation,CRM
+CRM-BTX-BF-LI,Integration of Lists in the Business Transaction,CRM
+CRM-BTX-BF-LOG,ERP Interface for Logistics Integration,CRM
+CRM-BTX-BF-PP,Product Proposal,CRM
+CRM-BTX-BF-PR,Pricing Interface,CRM
+CRM-BTX-BF-SC,Integration Solution Configurator to Business Transactions,CRM
+CRM-BTX-BF-SVY,Survey,CRM
+CRM-BTX-BF-TA,Transaction Analyzer,CRM
+CRM-BTX-BF-VOL,Usage Volumes,CRM
+CRM-BTX-BRQ,Billing Request,CRM
+CRM-BTX-COI-SRV,Controlling Integration Service,CRM
+CRM-BTX-COM,Complaints / Returns / In-House Repair,CRM
+CRM-BTX-CTR,Contracts,CRM
+CRM-BTX-CTR-CB,Consumption Billing,CRM
+CRM-BTX-CTR-PCO,Pool Contract,CRM
+CRM-BTX-CTR-SCO,Service Contract,CRM
+CRM-BTX-CTR-UCO,Usage-Based Service Contract,CRM
+CRM-BTX-CTR-UCO-CHP,Change Processes,CRM
+CRM-BTX-ERP,BSP for ERP Sales Order,CRM
+CRM-BTX-GWI,Groupware Integration (Client),CRM
+CRM-BTX-KA,Knowledge Article,CRM
+CRM-BTX-LEA,Lead Management,CRM
+CRM-BTX-OPP,Opportunities,CRM
+CRM-BTX-PRV,Provider Transactions,CRM
+CRM-BTX-PRV-DUI,Provider Transactions,CRM
+CRM-BTX-PSL,Product Service Letter,CRM
+CRM-BTX-SCO,Service Confirmation,CRM
+CRM-BTX-SLO,Sales Transaction,CRM
+CRM-BTX-SLO-QUT-PMM,Quotations Price and Margin Management Integration,CRM
+CRM-BTX-SPL,Service Plan,CRM
+CRM-BTX-SRQ,Service Request,CRM
+CRM-BTX-SRQ-BF,Basic Functions,CRM
+CRM-BTX-SRQ-BF-CKL,Checklist for Services,CRM
+CRM-BTX-SRQ-INC,Incident Management,CRM
+CRM-BTX-SRQ-LOB,Linked Object for Service Request Management,CRM
+CRM-BTX-SRQ-PRB,Problem Management,CRM
+CRM-BTX-SVO,Service Order,CRM
+CRM-BTX-WCL,Warranty Claim,CRM
+CRM-CA,CRM Cross-Application Components,CRM
+CRM-CHM,Channel Management,CRM
+CRM-CHM-CIM,Channel Inventory Management,CRM
+CRM-CHM-PAM,Account Management for Partners,CRM
+CRM-CHM-PCT,Partner Product Catalog and Price Management,CRM
+CRM-CHM-POS,Point of Sale,CRM
+CRM-CIC,Interaction Center WinClient,CRM
+CRM-CIC-BRT,Business Routings,CRM
+CRM-CIC-CAM,Campaign Execution,CRM
+CRM-CIC-PRO-PRO,Product Proposals,CRM
+CRM-CIC-REP,Reporting,CRM
+CRM-CLA,Claims Management,CRM
+CRM-CLA-BI,BI Integration,CRM
+CRM-CLA-CCB,Chargeback Claims,CRM
+CRM-CLA-CCR,Chargeback Recovery,CRM
+CRM-CLA-CPP,Prepayment,CRM
+CRM-CLA-CSD,Claim Submission,CRM
+CRM-CLA-CSR,Claim,CRM
+CRM-CLA-RES,Reservation,CRM
+CRM-CLA-VWS,Validation Sheet,CRM
+CRM-CM,Case Management,CRM
+CRM-EM,CRM Entitlement Management,CRM
+CRM-FCA,CRM Integration for ERP Billing in Current Account,CRM
+CRM-FM,Funds Management,CRM
+CRM-FM-ACL,Accruals,CRM
+CRM-FM-BER,Budget Expiration,CRM
+CRM-FM-BFW,Batch Framework,CRM
+CRM-FM-BPO,Budget Posting,CRM
+CRM-FM-FND,Fund Plans and Funds,CRM
+CRM-FM-FPO,Fund Posting,CRM
+CRM-FM-FU,Fund Usages,CRM
+CRM-FM-LR,Live Rates Planning,CRM
+CRM-HH-HSA,Handheld Sales,CRM
+CRM-IA-IC,Automotive Interaction Center,CRM
+CRM-IC,Interaction Center WebClient,CRM
+CRM-IC-ACO,Accounting,CRM
+CRM-IC-ADR-ERP,Dispute Management ERP,CRM
+CRM-IC-ALT,Alert,CRM
+CRM-IC-BE,Billing Documents in Interaction Center,CRM
+CRM-IC-BF,Basic Functions for Business Transactions,CRM
+CRM-IC-BF-PAR,Partner Processing,CRM
+CRM-IC-CAL,Call List Execution and Maintenance,CRM
+CRM-IC-CHA,Communication Channels,CRM
+CRM-IC-CHA-EMA,E-Mail Integration,CRM
+CRM-IC-CI,Bill presentment in ICWebClient without persisting in CRM,CRM
+CRM-IC-CMG,Case Management,CRM
+CRM-IC-EMS,E-Mail Response Management System,CRM
+CRM-IC-EMS-CAT,Categories,CRM
+CRM-IC-EMS-MON,Monitoring,CRM
+CRM-IC-EMS-RUL,Rule Maintenance,CRM
+CRM-IC-FCA,Financial Contract Accounting,CRM
+CRM-IC-HCM,Personnel Administration,CRM
+CRM-IC-INR,Interaction Record,CRM
+CRM-IC-LEA,Lead Management,CRM
+CRM-IC-OBJ,Individual Objects,CRM
+CRM-IC-PRV,Provider Transactions in Interaction Center,CRM
+CRM-IC-RTD,Real-Time Decisioning,CRM
+CRM-IC-SEA,Account Identification,CRM
+CRM-IC-SLO-ERP,in ERP,CRM
+CRM-IC-SMC,Social Media Cockpit in Interaction Center,CRM
+CRM-IC-SOL,Solution Search,CRM
+CRM-IC-SVO,Service Order,CRM
+CRM-IC-UNI,Agent Inbox,CRM
+CRM-ICM,Incentive and Commission Management,CRM
+CRM-IFS,Financial Services,CRM
+CRM-IFS-BF,Basic Functions,CRM
+CRM-IFS-BF-BRF,Business Rules Framework,CRM
+CRM-IFS-BTX,Business Transaction,CRM
+CRM-IFS-BTX-CL,Security System Connection,CRM
+CRM-IFS-BTX-LS,Loan System Connection,CRM
+CRM-IFS-FST,Financial Statement,CRM
+CRM-IFS-MD-BP,Business Partner,CRM
+CRM-IFS-MD-PRO,Financial Service (Product),CRM
+CRM-IFS-SRV,Services for Banking Business objects,CRM
+CRM-IHT-PDP,Partner Design Projects,CRM
+CRM-IM,Media,CRM
+CRM-IM-IPM,Intellectual Property Management,CRM
+CRM-IM-IPM-BF,Basic Functions,CRM
+CRM-IM-IPM-BTX,Business Transactions Licensing,CRM
+CRM-IM-IPM-MD,Master Data,CRM
+CRM-IM-IPM-RIN,Rights Inventory Analysis,CRM
+CRM-IM-IPM-RO,Royalty Accounting,CRM
+CRM-IM-IPM-RO-ROO,Outgoing Royalties,CRM
+CRM-IPH,Pharmaceuticals,CRM
+CRM-IPH-BP,Business Partner,CRM
+CRM-IPH-CON,Chargeback Contracts,CRM
+CRM-IPS,Public Sector,CRM
+CRM-IPS-BTX,Business Transaction,CRM
+CRM-IPS-BTX-AGR,Grantor Agreement,CRM
+CRM-IPS-BTX-APL,Grantor Application,CRM
+CRM-IPS-BTX-DBA,Decision Basis - Social Services,CRM
+CRM-IPS-BTX-SDP,Social Deduction Plan,CRM
+CRM-IPS-BTX-SOA,Social Application,CRM
+CRM-IPS-BTX-SSP,Social Service Plan,CRM
+CRM-IPS-ICM,Investigative Case Management,CRM
+CRM-IPS-ICM-ACT,Activities,CRM
+CRM-IPS-ICM-BP,Business Partners,CRM
+CRM-IPS-ICM-CMG,Cases and Leads,CRM
+CRM-IPS-ICM-LOC,Locations,CRM
+CRM-IPS-ICM-OBJ,Objects,CRM
+CRM-IPS-ICM-REC,Records Management,CRM
+CRM-IPS-ICM-REL,Relationships and Reliability,CRM
+CRM-IPS-MD-PRG,Grantor Programm,CRM
+CRM-IPS-MD-PSO,Contract Object,CRM
+CRM-ISA,Internet Sales,CRM
+CRM-ISE,Internet Service,CRM
+CRM-ISE-SRE,Service Request,CRM
+CRM-ISE-WBF,Web Forms,CRM
+CRM-ISH,CRM integration with IS-H,CRM
+CRM-ISR,Retail,CRM
+CRM-ISR-MD,Master Data,CRM
+CRM-ISR-MD-PRO,Product,CRM
+CRM-IT,Telecommunications,CRM
+CRM-IT-BI,Integration to Billing System,CRM
+CRM-IT-BTX,Business Transaction,CRM
+CRM-IT-PRO,Technical Data / Objects,CRM
+CRM-ITT-ETC-BTX,Business Transaction,CRM
+CRM-IU,Utilities Industry,CRM
+CRM-IU-DSM,Demand Side Management,CRM
+CRM-IU-DSM-AGR,DSM - Agreement,CRM
+CRM-IU-DSM-APL,DSM - Application,CRM
+CRM-IU-DSM-PRG,DSM - Program,CRM
+CRM-IU-IC,Utilities Industry: Interaction Center,CRM
+CRM-IU-IC-IO,"Utilities Industry: Identification, Overviews",CRM
+CRM-IU-M,Utilities Industry: Marketing,CRM
+CRM-IU-MD-PRO,Utilities Industry: Product,CRM
+CRM-IU-S,Utilities Industry: Sales,CRM
+CRM-IU-S-CI,Utilities Industry: Commercial and Industrial Customers,CRM
+CRM-IU-XC,Cross Components,CRM
+CRM-LAM,CRM Leasing,CRM
+CRM-LAM-BF,Basic Functions,CRM
+CRM-LAM-BF-FIM,Financial Mathematics,CRM
+CRM-LAM-BF-PR,Pricing,CRM
+CRM-LAM-BTX,Business Transaction Leasing,CRM
+CRM-LAM-BTX-CTR,Quotation and Contract,CRM
+CRM-LAM-BTX-LAE,Connection to Accounting,CRM
+CRM-LAM-BTX-MAC,Multiple-Asset Contracts,CRM
+CRM-LAM-MD-FPR,Financing Product,CRM
+CRM-LOC,Localization,CRM
+CRM-LOC-BR,Brazil,CRM
+CRM-LOC-IN,India,CRM
+CRM-LOY,Loyalty,CRM
+CRM-LOY-BTX-SLO,Loyalty Sales Transaction,CRM
+CRM-LOY-CO,Core,CRM
+CRM-LOY-ENG,Loyalty Processing Engine,CRM
+CRM-LOY-MA,Member Activity,CRM
+CRM-LOY-MSH,Membership,CRM
+CRM-LOY-MSH-CRD,Loyalty Membership Cards,CRM
+CRM-LOY-OUT,Loyalty Outbound Correspondence,CRM
+CRM-LOY-PA,Point Account,CRM
+CRM-LOY-PRG,Program,CRM
+CRM-LOY-PSH,Loyalty Partnership,CRM
+CRM-MD-BP,Business Partners,CRM
+CRM-MD-BP-BAG,Business Agreements,CRM
+CRM-MD-BP-CCP,Business Partner Cockpit,CRM
+CRM-MD-BP-DAT,CRM Specific Business Partner Data,CRM
+CRM-MD-BP-GRH,Group Hierarchy,CRM
+CRM-MD-BP-IF,Data Exchange CRM Online <-> R/3,CRM
+CRM-MD-BP-MDF-CPH,MDF Channel Partner Hierarchy,CRM
+CRM-MD-BP-PCU,People-Centric UI (Business Partner),CRM
+CRM-MD-BP-TDA,Periodically Valid Appointment Rules,CRM
+CRM-MD-CON-IF,Exchange of Condition Records and Customizing Data,CRM
+CRM-MD-CON-PC,PC-UI of Condition Master Data Maintenance,CRM
+CRM-MD-CPE,CPE Master Data in CRM,CRM
+CRM-MD-DQA,Data Quality Administration,CRM
+CRM-MD-INB,Installed Bases,CRM
+CRM-MD-LI,Listings,CRM
+CRM-MD-NPL,Price List,CRM
+CRM-MD-ORG,Organizational Management,CRM
+CRM-MD-PAC,Package Interlinkage Maintenance,CRM
+CRM-MD-PCT,Product Catalog,CRM
+CRM-MD-PPR,Partner/Product Range,CRM
+CRM-MD-PRO,Products,CRM
+CRM-MD-PRO-CAT,Hierarchies and Categories,CRM
+CRM-MD-PRO-OBJ,Objects,CRM
+CRM-MD-PRO-OBJ-IF,Data Exchange,CRM
+CRM-MD-PRO-OBJ-ITF,Integration Framework,CRM
+CRM-MD-PRO-PCU,People-Centric UI (Product),CRM
+CRM-MD-PRO-SET,Set Types and Attributes,CRM
+CRM-MD-PRO-WTY,Warranties,CRM
+CRM-MD-RB,Rebates,CRM
+CRM-MD-SDB,Solution Database,CRM
+CRM-MD-TM,Territory Management,CRM
+CRM-MEP,Multi-System Exchange Projects,CRM
+CRM-MKT,Marketing,CRM
+CRM-MKT-DAM,Digital Asset Management,CRM
+CRM-MKT-EAL,External List Management,CRM
+CRM-MKT-FRW-IBM,Marketing IBOM Framework,CRM
+CRM-MKT-FRW-OL,Marketing Object Layer Framework,CRM
+CRM-MKT-ISM,Insights Management,CRM
+CRM-MKT-ML,Direct Mailing,CRM
+CRM-MKT-MP,Marketing Prospect,CRM
+CRM-MKT-MPL,Marketing Planner,CRM
+CRM-MKT-MPL-CA,Campaign Automation,CRM
+CRM-MKT-MPL-CA-BRE,Maintenance of Branching Elements,CRM
+CRM-MKT-MPL-CA-EXE,Execution,CRM
+CRM-MKT-MPL-CAL,Marketing Calendar,CRM
+CRM-MKT-MPL-LOY,Loyalty Marketing,CRM
+CRM-MKT-MPL-MDF,Marketing Development Funds,CRM
+CRM-MKT-MPL-SP,Scenario Planner,CRM
+CRM-MKT-MPL-ST,Basic Functions,CRM
+CRM-MKT-MPL-ST-BW,BI Interface,CRM
+CRM-MKT-MPL-ST-CND,Campaign-Specific Condition Maintenance,CRM
+CRM-MKT-MPL-ST-ERP,ERP Interface,CRM
+CRM-MKT-MPL-ST-EXE,Campaign Execution,CRM
+CRM-MKT-MPL-ST-KFP,Key Figure Planning,CRM
+CRM-MKT-MPL-ST-RTD,Real Time Offer Management Integration,CRM
+CRM-MKT-MPL-ST-SEG,Segment Assignment,CRM
+CRM-MKT-MPL-ST-VOC,Voucher/Coupon,CRM
+CRM-MKT-MPL-TPM,Trade Promotion Management,CRM
+CRM-MKT-MPL-TPM-CAU,Causals,CRM
+CRM-MKT-MPL-TPM-CFI,Claims and Funds Integration for TPM,CRM
+CRM-MKT-MPL-TPM-IND,Indirect Relationship,CRM
+CRM-MKT-MPL-TPM-MAS,Mass Change,CRM
+CRM-MKT-MPL-TPM-PPG,Promotion Guidelines,CRM
+CRM-MKT-MPL-TPM-SRV,Services,CRM
+CRM-MKT-PRP,Product Proposals,CRM
+CRM-MKT-PRP-CRS,Cross-Selling,CRM
+CRM-MKT-SEG,Segmentation,CRM
+CRM-MKT-SEG-ATT,Attributes,CRM
+CRM-MKT-SEG-FPR,Follow-Up Processing w/o Campaigns,CRM
+CRM-MKT-SEG-IEX,Interface Execution,CRM
+CRM-MKT-SEG-ITP,Interface Third Party,CRM
+CRM-MKT-SEG-PRF,Profiles,CRM
+CRM-MKT-SEG-PTM,Profile Templates,CRM
+CRM-MKT-SEG-TGR,Target Groups,CRM
+CRM-MKT-SOC-CPG,HPA Integration with CRM Marketing Campaign Mgmt via SAP JAM,CRM
+CRM-MKT-WF,Workflow,CRM
+CRM-MSA,Mobile Sales,CRM
+CRM-MSA-ADP,Adapters Mobile Sales,CRM
+CRM-MSA-ADP-MIG,Migration,CRM
+CRM-MSA-TER,Territory Management,CRM
+CRM-MSE,Mobile Service,CRM
+CRM-MSP,Mobile Smartphone,CRM
+CRM-MT-MAS-ARS,Application Repository System,CRM
+CRM-MW,Middleware,CRM
+CRM-MW-ADM,Administration Console,CRM
+CRM-MW-ADP,Middleware Adapter,CRM
+CRM-MW-ASC,ASCII-Adapter,CRM
+CRM-MW-BDM,BDOC Modeler,CRM
+CRM-MW-CCO,Client Console,CRM
+CRM-MW-GEN,Generation,CRM
+CRM-MW-GWI,Groupware Integration,CRM
+CRM-MW-GWI-GWA,Groupware Adapter,CRM
+CRM-MW-KGN,Key Generation,CRM
+CRM-MW-MBX,MapBox,CRM
+CRM-MW-MFW,Migration Framework,CRM
+CRM-MW-MMR,Mobile Message Recovery,CRM
+CRM-MW-MON,Monitoring,CRM
+CRM-MW-NAV,Middleware Object Navigator,CRM
+CRM-MW-SPM,EBP/CRM Support Package Manager,CRM
+CRM-MW-SRV,Flow / Services,CRM
+CRM-PCC-FCT,Fact Sheet,CRM
+CRM-PCC-GEN,Generic Functions,CRM
+CRM-PCC-KM,Knowledge Management,CRM
+CRM-RB,Rebate Processing,CRM
+CRM-RB-AG,Rebate Agreement,CRM
+CRM-RPL-PRP,Project Resource Planning,CRM
+CRM-RPL-SRV,Service Resource Planning,CRM
+CRM-RPL-SRV-RPT,Resource Planning Tool,CRM
+CRM-S4-REP-CNT,,CRM
+CRM-WA,Waste Management,CRM
+CS-CI-CIC,Customer Interaction Center,CS
+CS-IB,Installed Base Management,CS
+CS-SE,Service Processing,CS
+DI-WI-DP,Dealer Portal,DI
+EC,Enterprise Controlling,EC
+EC-CS,Consolidation,EC
+EC-CS-INT-OUT-BIW,Forwarding to SAP BW,EC
+EC-EIS,Executive Information System,EC
+EC-EIS-DCM,Data Collection,EC
+EC-EIS-DD,Interactive Drilldown Reporting,EC
+EC-PCA,Profit Center Accounting,EC
+EC-PCA-BS,Basic Settings,EC
+EHS,"Environment, Health and Safety",EHS
+EHS-BD,Basic Data and Tools,EHS
+EHS-BD-CCK,Compliance Check,EHS
+EHS-BD-SPE,Specification Management,EHS
+EHS-DGP,Dangerous Goods Management,EHS
+EHS-HEA,Occupational Health,EHS
+EHS-HSM,Hazardous Substance Management,EHS
+EHS-IHS,Industrial Hygiene and Safety,EHS
+EHS-SAF,Product Safety,EHS
+EHS-SUS-CNT,,EHS
+EHS-WA,Waste Management,EHS
+EP-PCT,Portal Content,EP
+EP-PCT-MAN-MP,BP for Maintenance Planner,EP
+EP-PCT-MAN-MS,BP for Maintenance Supervisor,EP
+EP-PCT-MAN-MT,Business Package for Maintenance Technician,EP
+EP-PCT-MAN-PS,BP for Production Supervisor,EP
+EP-PCT-MAN-QI,Business Package for Quality Inspector,EP
+EP-PCT-MGR-CO,Business Package for Manager Self-Service (FI),EP
+EP-PCT-MGR-HR,Business Package for Manager Self-Service (HR),EP
+EP-PCT-PLM-PSS,Business Package for Project Self-Service,EP
+FI,Financial Accounting,FI
+FI-AA,Asset Accounting,FI
+FI-AA-AA,Basic Functions,FI
+FI-AA-AA-TR-TP,Transfer Postings,FI
+FI-AA-IS,Information System,FI
+FI-AA-SVA-HI,Handling of Inflation,FI
+FI-AA-SVA-NT,Net Worth Tax,FI
+FI-AF-DPC,Down Payment Chains,FI
+FI-AP-AP,Basic Functions,FI
+FI-AP-AP-PT,Payment Transactions,FI
+FI-AR,Accounts Receivable,FI
+FI-AR-AR,Basic Functions,FI
+FI-AR-AR-DP,Down Payments,FI
+FI-AR-AR-PT,Payment Transactions,FI
+FI-AR-CR,Credit Management,FI
+FI-AR-IS,Information System,FI
+FI-BL,Bank Accounting,FI
+FI-BL-BM-CM,Check Management,FI
+FI-BL-MD,Master Data,FI
+FI-BL-MD-BK,Bank Master Data,FI
+FI-BL-PT,Payment Transactions,FI
+FI-BL-PT-AP,Automatic Payments,FI
+FI-BL-PT-BS,Bank Statement,FI
+FI-BL-PT-BS-EL,Electronic Bank Statement,FI
+FI-CA,Contract Accounts Receivable and Payable,FI
+FI-CA-BF,Basic Functions,FI
+FI-CA-BF-BP,Business Partner,FI
+FI-CA-BF-CA,Contract Accounts,FI
+FI-CA-BT,Business transactions,FI
+FI-CA-BT-CC,Customer Contact,FI
+FI-CA-BT-IC,Interest Calculation,FI
+FI-CA-BT-PY,Payments,FI
+FI-CA-BT-SE,Security Deposits,FI
+FI-CA-IN-CR,SAP Credit Management,FI
+FI-CA-INV,Invoicing to Contract Accounts Receivable and Payable,FI
+FI-CAX,Generic Contract Accounts Receivable and Payable,FI
+FI-CNT-AA,,FI
+FI-CNT-AP,,FI
+FI-CNT-AR,,FI
+FI-CNT-CO,,FI
+FI-CNT-GL,,FI
+FI-FM,Funds Management,FI
+FI-FM-IS,Information System,FI
+FI-FM-PO,Postings,FI
+FI-GL,General Ledger Accounting,FI
+FI-GL-CU-MCA,Multi Currency Accounting,FI
+FI-GL-FL,Flexible Structures,FI
+FI-GL-GL,Basic Functions,FI
+FI-GL-GL-AAC,Manual Accruals,FI
+FI-GL-GL-ACE,Accrual Engine,FI
+FI-GL-GL-ADB,Average Daily Balance,FI
+FI-GL-GL-AP,G/L Account Posting,FI
+FI-GL-GL-CAE,CRM Accruals,FI
+FI-GL-GL-CL,Closing Operations,FI
+FI-GL-GL-CUR,Erweiterte W�hrungskonvertierung,FI
+FI-GL-GL-PL,Planning,FI
+FI-GL-GL-SOA,Provisions for Awards,FI
+FI-GL-IS,Information System,FI
+FI-GL-REO,General Ledger Reorganization,FI
+FI-LA,Lease Accounting,FI
+FI-LC-LC,Basic Functions,FI
+FI-LOC,Localization,FI
+FI-LOC-SRF-RUN,,FI
+FI-RL,Retail Ledger,FI
+FI-SL,Special Purpose Ledger,FI
+FI-SL-IS,Information System,FI
+FI-SL-SL,Basic Functions,FI
+FI-SL-SL-MD-SE,Sets,FI
+FI-SL-VSR,"Validation, Substitution and Rules",FI
+FI-TV,Travel Management,FI
+FI-TV-COS,Travel Expenses,FI
+FI-TV-PL,Travel Planning,FI
+FIN,Financials,FIN
+FIN-BA,Business Analytics,FIN
+FIN-BAC,Business Accounting,FIN
+FIN-BAC-AE,Accounting Engine,FIN
+FIN-BAC-GL,General Ledger,FIN
+FIN-BAC-INV,Inventory Accounting,FIN
+FIN-BAC-PM,Profitability Analysis,FIN
+FIN-CGV-MIC,Management of Internal Controls,FIN
+FIN-CS-CNT,,FIN
+FIN-FB,Financials Basis,FIN
+FIN-FB-MDF,Master Data Framework,FIN
+FIN-FB-SRV,Services,FIN
+FIN-FSCM,Financial Supply Chain Management,FIN
+FIN-FSCM-BC-SB,Biller Consolidator Service Billing,FIN
+FIN-FSCM-BD-AR,Accounts Receivable Accounting Process Integration,FIN
+FIN-FSCM-CLM-CM-CM,Basic Functions,FIN
+FIN-FSCM-CLM-CNT,,FIN
+FIN-FSCM-COL,Collections Management,FIN
+FIN-FSCM-COL-AR,Accounts Receivable Accounting Process Integration,FIN
+FIN-FSCM-COL-CNT,,FIN
+FIN-FSCM-COL-COL,Basic Functions,FIN
+FIN-FSCM-CR,Credit Management,FIN
+FIN-FSCM-CR-AD,Adaptor,FIN
+FIN-FSCM-CR-CNT,,FIN
+FIN-FSCM-CR-CR,Basic Functions,FIN
+FIN-FSCM-DM-AR,Accounts Receivable Accounting Process Integration,FIN
+FIN-FSCM-DM-DM,Basic Functions,FIN
+FIN-FSCM-DR,Internal Collection Procedure,FIN
+FIN-FSCM-IHC,FSCM In-House Cash,FIN
+FIN-FSCM-PF-CNT,,FIN
+FIN-FSCM-TRM,Treasury and Risk Management,FIN
+FIN-FSCM-TRM-AN,Analyzer,FIN
+FIN-FSCM-TRM-AN-IS,Information System,FIN
+FIN-FSCM-TRM-BF-BP,Business Partner,FIN
+FIN-FSCM-TRM-CR,Credit Risk Analyzer,FIN
+FIN-FSCM-TRM-MR,Market Risk Analyzer,FIN
+FIN-FSCM-TRM-PA,Portfolio Analyzer,FIN
+FIN-FSCM-TRM-TM,Transaction Manager,FIN
+FIN-FSCM-TRM-TM-AC,Transfer to Financial Accounting,FIN
+FIN-FSCM-TRM-TM-BO,Back Office,FIN
+FIN-FSCM-TRM-TM-IS,Information System,FIN
+FIN-FSCM-TRM-TM-TR,Transaction Management,FIN
+FIN-SEM,Strategic Enterprise Management,FIN
+FIN-SEM-BCS,Business Consolidation,FIN
+FIN-SEM-BCS-IS,Information System,FIN
+FIN-SEM-BIC,Business Information Collection,FIN
+FIN-SEM-BPS,Business Planning and Simulation,FIN
+FIN-SEM-BPS-BP,Business Planning,FIN
+FIN-SEM-BPS-PLA,Planning Applications,FIN
+FIN-SEM-CPM,Corporate Performance Monitor,FIN
+FIN-SEM-CPM-BSC,Balanced Scorecard,FIN
+FIN-SEM-CPM-MC,Management Cockpit,FIN
+FIN-SEM-SRM,Stakeholder Relationship Management,FIN
+FS,Financial Services,FS
+FS-BP,Business Partner,FS
+FS-CD,Collections/Disbursements,FS
+FS-CM,Claims Management,FS
+FS-CML,Loans Management,FS
+FS-CML-AC,Accounting,FS
+FS-CML-AC-RPM,Receivables/Payment Management,FS
+FS-CML-BD-MD,Master Data,FS
+FS-CML-NB,New business,FS
+FS-CML-PO,Portfolio,FS
+FS-CML-PO-DI,Outgoing Payments,FS
+FS-CMS,Collateral Management System,FS
+FS-CMS-CAL,Calculations,FS
+FS-CMS-IS,Information System,FS
+FS-CMS-LIQ,Liquidation,FS
+FS-CMS-MD,Master Data,FS
+FS-CMS-MD-LR,Land Register,FS
+FS-CMS-MD-MOV,Movables,FS
+FS-CMS-MD-RBL,Receivable,FS
+FS-CMS-MD-RE,Real Estate,FS
+FS-CMS-MD-RIG,Rights,FS
+FS-CMS-MD-SEC,Securities,FS
+FS-CMS-MD-SHP,Ship,FS
+FS-FND-AF,Agent Framework,FS
+FS-RBD,Value Adjustment,FS
+FS-SR,Regulatory reporting for insurance companies,FS
+FS-SR-CH,Switzerland,FS
+FS-SR-DE,Germany,FS
+GRC,"Governance, Risk and Compliance",GRC
+GRC-AC,Access Controls,GRC
+GRC-ACP,GRC Access Control Plug-In,GRC
+GRC-INT-FC-CNT,,GRC
+GRC-INT-RM-CNT,,GRC
+GRC-INT-SPC-CNT,,GRC
+GRC-INT-SPG-CNT,,GRC
+GRC-PCE,Process Controls -Automated Controls,GRC
+GRC-PCP,GRC Process Control Plug-in,GRC
+GRC-RM,GRC Risk Management,GRC
+GRC-SPC,Process Controls,GRC
+HAN-DB,SAP HANA Database,HAN
+ICM,Incentive and Commission Management (ICM),ICM
+IM-FA,Capital Investments,IM
+IM-FA-IA,Appropriation Requests,IM
+IM-FA-IE,Statistical Key Figures,IM
+IM-FA-IS,Depreciation Simulation,IM
+IM-FA-PR-CL-SE,Project Settlement,IM
+IS-A,Industry-Specific Component Automotive,IS
+IS-A-EMM,Enhancements to scheduling agreements MM (Outbound),IS
+IS-A-ESD,Enhancements SD,IS
+IS-A-ESP,External Service Agent,IS
+IS-A-GR,Goods Receipt Process,IS
+IS-A-HUM,Handling Unit Management,IS
+IS-A-JIT,Just-In-Time Processing,IS
+IS-A-JIT-DLC,Delivery Confirmation,IS
+IS-A-MON,Monitors for Automotive,IS
+IS-A-PPC,Production Backflush,IS
+IS-A-RL,Returnable Packaging Logistics,IS
+IS-A-S2L,Production Supply,IS
+IS-A-SUS,Supersession Chains,IS
+IS-A-SWP,Supplier Workplace,IS
+IS-A-VMS,Vehicle Management System,IS
+IS-A-XLO,Extended Logistics,IS
+IS-AD,Aerospace & Defence Industry Solution,IS
+IS-AD-ALC,Add-ons for Actual Costs / Time Recording,IS
+IS-AD-BI,Add-Ons for Billing,IS
+IS-AD-EV,Add-Ons for Progress Analysis,IS
+IS-AD-GPD,"Pegging, Grouping, and Distribution",IS
+IS-AD-LBK,R/3 Log Book,IS
+IS-AD-MEB,Line Maintenance Planning (MEB Enhancements),IS
+IS-AD-MPD,Maintenance Program Definition,IS
+IS-AD-MPN,Manufacturer Part Number,IS
+IS-AD-MPN-MD,Master Data,IS
+IS-AD-MPN-SLS,Sales,IS
+IS-AD-PRM,Preventive Maintenance,IS
+IS-AD-SPC,Specification 2000,IS
+IS-AD-SPC-IN,Invoicing,IS
+IS-AD-SPC-PR,Provisioning,IS
+IS-AD-SSP,Spare Part Sharing and Stock Providede by Customer,IS
+IS-AD-SUC,Subcontracting,IS
+IS-AD-WTY,Service Process Warranty,IS
+IS-B,Bank Components,IS
+IS-B-BCA,Bank Customer Accounts,IS
+IS-B-BCA-AM,Account Management,IS
+IS-B-BCA-AM-IT,Payment Item,IS
+IS-B-BCA-AM-PO,Payment Order,IS
+IS-B-BCA-BF,Basic Functions,IS
+IS-B-BCA-MD,Master Data,IS
+IS-B-BCA-MD-BP,Business partner,IS
+IS-B-BCA-MD-CD,Condition,IS
+IS-B-BCA-MD-PR,Product definition,IS
+IS-B-BCA-MPM,Position Management,IS
+IS-B-BCA-PT-GLP,G/L transfer,IS
+IS-B-BCA-PT-IC,Interest/Charge Calculation,IS
+IS-B-DP,Transaction Data Pool,IS
+IS-B-DP-EDT,External Data Transfer,IS
+IS-B-PA-PA,Profitability Analysis,IS
+IS-B-PA-STC,Single Transaction Costing,IS
+IS-B-RA,Risk Analysis,IS
+IS-B-RA-CL,Default Risk and Limit System,IS
+IS-B-RA-MR,Market Risk Analysis,IS
+IS-B-SA,Strategy Analyzer,IS
+IS-B-SA-ALM,Asset/Liability Management,IS
+IS-CWM,Industry Solution Catch Weight Management,IS
+IS-DFS-BIT,Basis Technology R/3,IS
+IS-DFS-BIT-DIS,Distributed System Landscape,IS
+IS-DFS-BIT-PG,Role Generator,IS
+IS-DFS-LM,Line Maintenance,IS
+IS-DFS-LM-STS,Status Board,IS
+IS-DFS-MA,Mobile Applications,IS
+IS-DFS-MA-HR,Mobile Human Resources Management,IS
+IS-DFS-MA-MM,Mobile Materials Management,IS
+IS-DFS-MM,Materials Management,IS
+IS-DFS-MM-OF,Implementation of Organizational Flexibility in Logistics,IS
+IS-DFS-OF,Organizational Flexibility,IS
+IS-DFS-OF-FAS,LOGFAS,IS
+IS-DFS-OF-FDP,Structures Workbench,IS
+IS-DFS-OF-FOR,Force Element,IS
+IS-DFS-OF-MPA,Logistical Requirements,IS
+IS-DFS-OF-MPO,Material Categories,IS
+IS-DFS-OF-PER,Personnel Categories,IS
+IS-DFS-OF-REL,Command and Support Relationships,IS
+IS-DFS-PDR,Master Data Distribution,IS
+IS-DFS-PM,Maintenance,IS
+IS-DFS-PM-DIS,Distributed Maintenance,IS
+IS-DFS-PM-REL,Transfer Technical Objects,IS
+IS-EC-BOS,Customer Bill of Services,IS
+IS-EC-CEM,Construction Equipment Management,IS
+IS-H,SAP Healthcare - Industry-Specific Components for Hospitals,IS
+IS-H-ACM,SAP Ambulatory Care Management,IS
+IS-H-IS,Information System,IS
+IS-H-PM,Patient Management,IS
+IS-HER-CM,Campus Management,IS
+IS-HER-CM-AC,Student Accounting,IS
+IS-HER-CM-AD,Administration,IS
+IS-HER-CM-GB,United Kingdom,IS
+IS-HER-CM-US,USA,IS
+IS-HMED,Clinical System,IS
+IS-HMED-MR-VS,Vital Signs,IS
+IS-HMED-MRO,Medical Patient Data Organization (Patient Organizer),IS
+IS-HMED-PT,Patient Transport Service,IS
+IS-HMED-RA,Radiology,IS
+IS-HMED-SC,Planning,IS
+IS-HT,Industry Solution High Tech,IS
+IS-HT-DRM,Distributor-Reseller-Management,IS
+IS-HT-MES,Manufacturing Execution System,IS
+IS-HT-SW,Software Management,IS
+IS-HT-SW-CM,Contract Management,IS
+IS-HT-SW-IB,Installed Base Management,IS
+IS-HT-SW-LIC,Software License Management,IS
+IS-HT-SW-SMP,Software Maintenance Processing,IS
+IS-M,SAP Media,IS
+IS-M-IS,Information System,IS
+IS-M-MD,Master Data,IS
+IS-MP,Mill Products Industry Solution,IS
+IS-MP-CA,Cross-Application Component (CA) Enhancements,IS
+IS-MP-LE,Logistics Execution (LE) Enhancements,IS
+IS-MP-LO,Logistics - General (LO) Enhancements,IS
+IS-MP-MM,Materials Management (MM) enhancements,IS
+IS-MP-NF,Non-Ferrous Metal enhancements,IS
+IS-MP-PP,Production Planning and Control (PP) enhancements,IS
+IS-MP-SD,Sales and Distribution (SD) enhancements,IS
+IS-OIL,Industry Solution Oil,IS
+IS-OIL-DS,Downstream,IS
+IS-OIL-DS-BDR,Bulk Distribution Requirements Planning,IS
+IS-OIL-DS-MAP,"Marketing, Accounting and Pricing",IS
+IS-OIL-DS-SSR,Service Station Retailing,IS
+IS-OIL-DS-TAS,Interface to Terminal Automation System,IS
+IS-OIL-DS-TDP,"Tariffs, Duties and Permits",IS
+IS-OIL-DS-TPI,Transportation Planning Interface,IS
+IS-OIL-DS-TSW,Trader's and Scheduler's Workbench,IS
+IS-OIL-OLM,Remote Logistics Management,IS
+IS-OIL-PRA,Production and Revenue Accounting,IS
+IS-OIL-PRA-EIA-UG,Upstream Graphics,IS
+IS-OIL-PRA-PRD,Production,IS
+IS-OIL-PRA-REP-ROY,Royalty Reporting,IS
+IS-OIL-PRA-REP-TAX,Tax Reporting,IS
+IS-OIL-PRA-REV,Revenue,IS
+IS-OIL-PRA-REV-BL,Balancing,IS
+IS-OIL-PRA-REV-CA,Contractual Allocation,IS
+IS-OIL-PRA-REV-CI,Check Input,IS
+IS-OIL-PRA-REV-CP,Contracts & Pricing,IS
+IS-OIL-PRA-REV-CW,Check Write,IS
+IS-OIL-PRA-REV-OW,Ownership,IS
+IS-OIL-PRA-REV-PC,Product Control,IS
+IS-OIL-PRA-REV-VAL,Valuation,IS
+IS-PRS-LS,Lean Staffing,IS
+IS-PS-CA,Public Sector Contract Accounting,IS
+IS-REA,Recycling Administration,IS
+IS-REA-COR,Recycling Administration Core Functions,IS
+IS-REA-COR-DEC,Recycling Administration: Declaration,IS
+IS-REA-COR-TLS,Recycling Administration: Tools,IS
+IS-T,Industry Solution - Telecommunications,IS
+IS-T-CA,Contract Accounts Receivable and Payable,IS
+IS-U,SAP Utilities,IS
+IS-U-BF-PS,Portioning and scheduling,IS
+IS-U-BF-RS,Regional structure,IS
+IS-U-BI,Contract Billing,IS
+IS-U-CA,Contract Accounts Receivable and Payable,IS
+IS-U-CS,Customer Service,IS
+IS-U-CS-BT-IO,Move-In/Out,IS
+IS-U-CS-CRM,Integration: Customer Relationship Management,IS
+IS-U-CS-FO,Front Office,IS
+IS-U-CS-MA,Marketing,IS
+IS-U-DM,Device Management,IS
+IS-U-DM-DI,Device installation,IS
+IS-U-DM-MR,Meter Reading,IS
+IS-U-EDM,Energy Data Management,IS
+IS-U-IDE,Intercompany Data Exchange,IS
+IS-U-IDX,Enhanced Intercompany Data Exchange,IS
+IS-U-IN,Invoicing,IS
+IS-U-IS-ST,Statistics,IS
+IS-U-MD,Master Data,IS
+IS-U-MD-POD,Point of delivery,IS
+IS-U-TO-ARC,Archiving,IS
+IS-U-TO-MI,Migration,IS
+IS-U-WA,Waste Management,IS
+IS-U-WM-MB,Work Management   Mobile Business,IS
+IS-U-WM-MD,Master Data,IS
+IS-U-WM-PC,Processing,IS
+KM-KW,Knowledge Warehouse,KM
+KM-KW-PAW,Performance Assessment Workbench,KM
+LCM-CNT,,LCM
+LE,Logistics Execution,LE
+LE-DSD,Direct Store Delivery,LE
+LE-DSD-DC,Handheld Connectivity,LE
+LE-DSD-DC-CN,DSD Connector,LE
+LE-DSD-DC-DU,Download/Upload,LE
+LE-DSD-ES,Electonic Signature,LE
+LE-DSD-GS,Generic Statistical Data,LE
+LE-DSD-LOC,DSD Localization,LE
+LE-DSD-OC-VD,Valuated Delivery Note,LE
+LE-DSD-RA-DE,Tour Data Entry,LE
+LE-DSD-RA-SL,Route Settlement,LE
+LE-DSD-RP,Transportation Planning,LE
+LE-DSD-RP-LU,Loading Units,LE
+LE-DSD-ST,Tour Status,LE
+LE-DSD-SV,Stock Visibility,LE
+LE-DSD-VC,Visit Control,LE
+LE-DSD-VSO,Vehicle Space Optimization,LE
+LE-DSD-VSO-MP,Main Process,LE
+LE-DSD-VSO-PP,Picking,LE
+LE-IDW,Decentralized WMS integration,LE
+LE-IEW,Extended Warehouse Management Integration,LE
+LE-IEW-X,Cross-Application Topics,LE
+LE-JIT,,LE
+LE-MOB,Mobile data entry,LE
+LE-SHP,Shipping,LE
+LE-SHP-CNT,,LE
+LE-SHP-DL,Delivery Processing,LE
+LE-SHP-GF,Basic Functions,LE
+LE-SHP-GF-ES,Enterprise Services in Shipping,LE
+LE-SHP-PI,Picking,LE
+LE-TRA,Transportation,LE
+LE-TRA-FC,Freight Processing,LE
+LE-TRA-IN,Interfaces,LE
+LE-TRA-TP,Transportation Planning and Processing,LE
+LE-TRM,Task & Resource Management,LE
+LE-WM,Warehouse Management,LE
+LE-WM-CD,Cross-Docking,LE
+LE-WM-DCC,Dynamic Cycle Counting,LE
+LE-WM-DWM,R/2-R/3 Link,LE
+LE-WM-GF,Other Functions,LE
+LE-WM-IFC,Interfaces,LE
+LE-WM-VAS,Value-Added Services,LE
+LE-YM,Yard Management,LE
+LO,Logistics - General,LO
+LO-AB,Agency Business (Global Trade),LO
+LO-AB-CA,Distribution,LO
+LO-AB-IFW,Invoice Forecasting,LO
+LO-AB-TC,Trading Contract,LO
+LO-ADM,Additionals Management,LO
+LO-ARM,Advanced Returns Management,LO
+LO-ARM-INS,Inspection,LO
+LO-BM,Batches,LO
+LO-BM-AI,Active Ingredient Management,LO
+LO-BM-CNT,,LO
+LO-CM,Configuration management,LO
+LO-CMM,Commodity Management in Logistics,LO
+LO-CMM-BF,Basic Functions,LO
+LO-ECH,Engineering Change Management,LO
+LO-ELR,Electronic Data Records,LO
+LO-GT,Global Trade,LO
+LO-GT-CHB,Chargeback,LO
+LO-GT-PM,Position Management,LO
+LO-GT-TC,Trading Contract,LO
+LO-GT-TC-VC,Variant Configuration,LO
+LO-GT-TE,Expenses,LO
+LO-GT-TEW,Trading Execution Workbench,LO
+LO-GTF,General Application Functions,LO
+LO-HU,Handling Unit Management,LO
+LO-HU-BF,Basic functions,LO
+LO-HU-CNT,,LO
+LO-HU-MD,Master data,LO
+LO-HU-PR,Editing,LO
+LO-INT-TM,Transportation Management Integration,LO
+LO-INT-TM-SLS,Verkauf,LO
+LO-INT-TRM,Treasury and Risk Management Integration,LO
+LO-LIS,Logistics Information System (LIS),LO
+LO-LIS-DC,Data Collection,LO
+LO-LIS-LIB,Logistics Information Library,LO
+LO-LIS-REP,Reporting,LO
+LO-MAP,Merchandise and Assortment Planning,LO
+LO-MD,Logistics Basic Data,LO
+LO-MD-BOM,Bills of Material,LO
+LO-MD-BP,Business Partners,LO
+LO-MD-BP-CM,Customer Master,LO
+LO-MD-BP-VM,Vendor Master,LO
+LO-MD-MG,Material Groups,LO
+LO-MD-MM,Material Master,LO
+LO-MD-MPA,Assignment of Markdown Profiles,LO
+LO-MD-PC,Product Catalog,LO
+LO-MD-PL,Plant Master,LO
+LO-MD-PPE,Integrated Product and Process Engineering,LO
+LO-MD-PPW,Price Planning Workbench,LO
+LO-MD-PR,Promotion,LO
+LO-MD-QO,Quantity optimizing,LO
+LO-MD-RA,Assortment,LO
+LO-MD-RA-ASL,Assortment List,LO
+LO-MD-RA-MT,Assortment Maintenance,LO
+LO-MD-RPC,Retail Pricing,LO
+LO-MD-SE-MT,Season Processing,LO
+LO-MD-SN-CNT,,LO
+LO-MD-UID,Unique Identification,LO
+LO-MDS,Merchandise Distribution,LO
+LO-MDS-AL,Allocation,LO
+LO-MDS-CPO,Collective Purchase Order,LO
+LO-PDM,Product Data Management,LO
+LO-PDM-GF,General Functions,LO
+LO-PDM-GF-OBR,Product Structure Browser,LO
+LO-RIS,Retail Information System (RIS),LO
+LO-S95,ANSI/ISA S95 Interface,LO
+LO-SCI,Supply Chain Planning Interfaces (SCPI),LO
+LO-SCI-AIN,Auto-ID Backend Integration,LO
+LO-SCI-POI,Production Optimization Interface (POI),LO
+LO-SPM-INB,Goods Receipt Process,LO
+LO-SPM-OUT,Goods Issue Process,LO
+LO-SPM-RET,Complaints and Returns,LO
+LO-SPM-STO,Stock Transfers,LO
+LO-SPM-X,Cross-Application Topics,LO
+LO-SRS,SAP Retail Store,LO
+LO-VC,Variant Configuration,LO
+LO-VC-IAD,IPC Adapter,LO
+LO-VC-LOI,LO Integration,LO
+LO-VC-WUI,Variant Configuration Web User Interface,LO
+LO-VCH-CNT,,LO
+LO-WTY,Warranty Claim Processing,LO
+LOD-ET-INT,,LOD
+LOD-FSN-AGT-CNT,,LOD
+MDM-CLT,Client-System Adapter,MDM
+MFG-CNT,,MFG
+MM,Materials Management,MM
+MM-CBP,Consumption-Based Planning (See Also PP-MRP),MM
+MM-CBP-CBP,Consumption-Based Planning (See Also PP-MRP),MM
+MM-EDI,Electronic Data Interchange,MM
+MM-IM,Inventory Management,MM
+MM-IM-CNT,,MM
+MM-IM-ED,Excise Duty,MM
+MM-IM-GF,Basic Functions,MM
+MM-IM-ST,Stock Transfer/Transfer Posting,MM
+MM-IM-VP,Balance Sheet Valuation Procedures,MM
+MM-IS-VE,Vendor Evaluation,MM
+MM-IV,Invoice Verification,MM
+MM-IV-GF,General Functions,MM
+MM-IV-LIV,Logistics Invoice Verification,MM
+MM-IV-LIV-ERS,ERS,MM
+MM-IV-LIV-IVB,Invoice Verification in Background,MM
+MM-PUR,Purchasing,MM
+MM-PUR-CNT,,MM
+MM-PUR-EM,Empties Management (When Extension EA-CP Is Active),MM
+MM-PUR-EM-PO,Empties Management in Purchase Orders,MM
+MM-PUR-FIP,Perishables Procurement,MM
+MM-PUR-GF,Basic Functions,MM
+MM-PUR-GF-CPE,CPE in MM,MM
+MM-PUR-GF-ES,Enterprise Services in Purchasing,MM
+MM-PUR-OA,Vendor Outline Agreements,MM
+MM-PUR-PO,Purchase Orders,MM
+MM-PUR-REQ,Purchase Requisitions,MM
+MM-PUR-SQ,Sources of Supply,MM
+MM-PUR-SSP,Self-Service Procurement,MM
+MM-SRV,External Services,MM
+OPU-BSE,Gateway Business Suite Enablement,OPU
+OPU-BSE-BEP,Gateway Business Eventing and Provisioning,OPU
+OPU-BSE-SB,Gateway Service Builder,OPU
+OPU-BSE-SDE,Gateway SAP Data Enablement,OPU
+OPU-BSE-TLS,Gateway Developer Tools,OPU
+OPU-BSE-WFM,Gateway Business Workflow enablement,OPU
+OPU-FND-CS,IWF Common Services,OPU
+OPU-GW-CNT,Gateway Content,OPU
+OPU-GW-COR,Gateway Framework,OPU
+PA,Personnel Management,PA
+PA-AS,HR Administrative Services,PA
+PA-BN,Benefits,PA
+PA-BN-BP,,PA
+PA-BN-CL,Claims Processing (Asia),PA
+PA-BN-ES,Employee Self-Service,PA
+PA-BN-FB-GB,Great Britain,PA
+PA-BN-FB-XX,General Parts,PA
+PA-CE,Concurrent Employment,PA
+PA-CM,Compensation Management,PA
+PA-CM-CP,Personnel Cost Planning,PA
+PA-CP,Personnel Cost Planning and Simulation,PA
+PA-EC-AD,Compensation Administration,PA
+PA-EC-BD,Compensation Budgeting,PA
+PA-EC-JP,Job Pricing,PA
+PA-EC-LT,Long-Term Incentives,PA
+PA-EC-TC,Total Compensation Statement,PA
+PA-EIC,Employee Interaction Center,PA
+PA-ER,E-Recruiting,PA
+PA-ESS,Employee Self-Service,PA
+PA-ESS-DE,Germany,PA
+PA-ESS-OCY,Other Countries,PA
+PA-ESS-XX,Common Parts,PA
+PA-GE,Management of Global Employees,PA
+PA-IS,HR Information Systems,PA
+PA-MA,HR Manager's Desktop,PA
+PA-OS,Organizational Structure,PA
+PA-OS-BS,Bases,PA
+PA-OS-ST,Staffing,PA
+PA-PA,Personnel Administration,PA
+PA-PA-AR,Argentina,PA
+PA-PA-AT,Austria,PA
+PA-PA-AU,Australia,PA
+PA-PA-BE,Belgium,PA
+PA-PA-BR,Brazil,PA
+PA-PA-CA,Canada,PA
+PA-PA-CH,Switzerland,PA
+PA-PA-CN,China,PA
+PA-PA-DE,Germany,PA
+PA-PA-DK,Denmark,PA
+PA-PA-ES,Spain,PA
+PA-PA-FI,Finland,PA
+PA-PA-FR,France,PA
+PA-PA-GB,Great Britain,PA
+PA-PA-HK,Hong Kong,PA
+PA-PA-IN,India,PA
+PA-PA-IT,Italy,PA
+PA-PA-JP,Japan,PA
+PA-PA-KR,Korea,PA
+PA-PA-MX,Mexico,PA
+PA-PA-MY,Malaysia,PA
+PA-PA-NL,Netherlands,PA
+PA-PA-NO,Norway,PA
+PA-PA-NZ,New Zealand,PA
+PA-PA-PT,Portugal,PA
+PA-PA-RU,Personalwesesen Stammdaten: Russland,PA
+PA-PA-SE,Sweden,PA
+PA-PA-SG,Singapore,PA
+PA-PA-TH,Thailand,PA
+PA-PA-TW,Taiwan,PA
+PA-PA-US,USA,PA
+PA-PA-US-EFR,Effort Reporting,PA
+PA-PA-VE,Venezuela,PA
+PA-PA-XX,General,PA
+PA-PA-XX-ET,External personnel administration,PA
+PA-PA-XX-TL-SEN,Calculation of Employment Period,PA
+PA-PA-ZA,South Africa,PA
+PA-PD,Personnel Development,PA
+PA-PD-AP,Appraisal Systems,PA
+PA-PD-DP,Development Plans,PA
+PA-PD-PM,Objective Setting and Appraisals,PA
+PA-PF-BE,,PA
+PA-PF-CH,Pension Fund Switzerland,PA
+PA-PF-DE,Company Pension Scheme Germany,PA
+PA-PF-NL,Pension fund Netherlands,PA
+PA-PF-XX,Pension fund: General Parts,PA
+PA-PM,Budget Management,PA
+PA-PM-PB,Position Budgeting and Control,PA
+PA-RC,Recruitment,PA
+PE,Training and Event Management,PE
+PE-LSO-TM,Training Management,PE
+PE-LSO-TM-DW,Day-to-Day Activities,PE
+PE-RPL,Room Reservation Management,PE
+PLM,Product Lifecycle Management,PLM
+PLM-CFO,Collaboration Folders,PLM
+PLM-CNT,,PLM
+PLM-LBK,Logbook,PLM
+PLM-PPM,Product and Process Modeling,PLM
+PLM-PPM-PDN,Product Designer,PLM
+PLM-PPM-RPL,Product Data Replication,PLM
+PLM-RM,Resourcen Management,PLM
+PLM-RM-REC,Recipe,PLM
+PLM-RM-TRS,Transformation,PLM
+PM,Plant Maintenance,PM
+PM-CNT,,PM
+PM-EQM,Technical Objects,PM
+PM-EQM-BM,Bills of Material (Plant Maintenance),PM
+PM-EQM-CC,Configuration Control,PM
+PM-EQM-EQ,Equipment,PM
+PM-EQM-ON,Object Networking,PM
+PM-EQM-SF-MPC,Measuring Points and Counters,PM
+PM-EQM-SF-PMT,Permits,PM
+PM-EQM-SF-WA,Warranties,PM
+PM-EQM-THO,Takeover/Handover of Technical Objects,PM
+PM-IS-REP,Reporting,PM
+PM-PRM-MP,Maintenance Plans,PM
+PM-PRM-TL,Maintenance Task Lists,PM
+PM-WCM,Work Clearance Management,PM
+PM-WOC,Maintenance Processing,PM
+PM-WOC-CP,Capacity and Resource Planning,PM
+PM-WOC-MH,Maintenance History,PM
+PM-WOC-MN,Maintenance Notifications,PM
+PM-WOC-MO,Maintenance Orders,PM
+PM-WOC-MO-CUM,Compatible Units,PM
+PP,Production Planning and Control,PP
+PP-BD-CAP,Computer Aided Process Planning,PP
+PP-BD-RTG,Routing,PP
+PP-CNT,,PP
+PP-CRP-LVL,Capacity Leveling,PP
+PP-CRP-SCH,Scheduling,PP
+PP-FLW,Flow Manufacturing,PP
+PP-FLW-SEQ,Sequencing,PP
+PP-IS,Information System,PP
+PP-KAB,KANBAN,PP
+PP-MES,Integration with Manufacturing Execution Systems,PP
+PP-MP,Production Planning,PP
+PP-MP-DEM,Demand Management,PP
+PP-MP-MFC,Material Forecast,PP
+PP-MRP,Material Requirements Planning,PP
+PP-MRP-BD,Master Data,PP
+PP-PDC,Plant Data Collection,PP
+PP-PI,Production Planning for Process Industries,PP
+PP-PI-CFB,Consumer Products for Food & Beverage,PP
+PP-PI-MD,Basic Data,PP
+PP-PI-MD-RSC,Resources,PP
+PP-PI-MIR,Material Identification and Reconciliation,PP
+PP-PI-PCM,Production Campaign,PP
+PP-PI-PDO,Process Data Documentation,PP
+PP-PI-PFS,Process Flow Scheduler,PP
+PP-PI-PMA,Process Management,PP
+PP-PI-PMA-CWD,Campaign Weighing and Dispensing,PP
+PP-PI-PMA-MGT,ABAP List-Based PI Sheet,PP
+PP-PI-PMA-MSG,Process Message,PP
+PP-PI-PMA-PMC,Browser-Based PI Sheet / Cockpit,PP
+PP-PI-PMA-RCP,Control Recipe,PP
+PP-PI-POR,Process Order,PP
+PP-PN,Production Network,PP
+PP-PN-ALN,Production Allocation,PP
+PP-PN-GIS,Geographical Information System,PP
+PP-PN-MES,Measurement System,PP
+PP-PN-NM,Network Modeler,PP
+PP-PN-NO,Network Objects,PP
+PP-PN-NOP,Network Operations,PP
+PP-PN-OWN,Ownership,PP
+PP-REM,Repetitive Manufacturing,PP
+PP-SFC,Production Orders,PP
+PP-SFC-CPL,Order Closing,PP
+PP-SFC-EXE-CON,Confirmations,PP
+PP-SFC-IS,Information System,PP
+PP-SFC-PLN,Order Planning,PP
+PP-SOP-BD,Basic Data,PP
+PP-SOP-DRP,Distribution Requirements Planning,PP
+PP-SOP-SP,Sales Plan,PP
+PPM,Portfolio and Project Management,PPM
+PPM-CF,Common Functions,PPM
+PPM-PFM,Portfolio Management,PPM
+PPM-PRO,Project Management,PPM
+PPM-PRO-BW,BW Interface,PPM
+PPM-PRO-CPL,Control Plan,PPM
+PPM-PRO-EVA,Evaluations,PPM
+PPM-PRO-EXT,Connection to External Systems,PPM
+PPM-PRO-EXT-API,BAPI Interface for cProjects,PPM
+PPM-PRO-EXT-FIN,cProjects Accounting Integration,PPM
+PPM-PRO-EXT-OBL,Object Links,PPM
+PPM-PRO-EXT-PMT,External Project Management Tools,PPM
+PPM-PRO-RES,Resources,PPM
+PPM-PRO-STR,Structure,PPM
+PPM-PRO-VER,Versions,PPM
+PS,Project System,PS
+PS-CAF,Payments,PS
+PS-CAF-ACT,Actual Payments and Forecast,PS
+PS-CAF-PLN-PLN,Planning,PS
+PS-CLM,Claim Management,PS
+PS-CON,Confirmation,PS
+PS-COS,Costs,PS
+PS-COS-PER-IC,Interest,PS
+PS-COS-PER-SE,Settlement,PS
+PS-COS-PLN,Planned Costs,PS
+PS-COS-PLN-CAL,Costing,PS
+PS-CRP-WFP,Workforce Planning,PS
+PS-DAT,Dates,PS
+PS-DOC-DMS,Document Processing,PS
+PS-IS,Information System,PS
+PS-IS-CON-SUM,Project Summarization,PS
+PS-IS-REP,Project Reports,PS
+PS-IS-REP-ACC,Accounting,PS
+PS-IS-REP-LOG,Logistics,PS
+PS-MAT,Material,PS
+PS-MAT-DLV,Delivery,PS
+PS-MAT-PRO,Project-Oriented Procurement,PS
+PS-PRG,Progress,PS
+PS-PRG-TRC,Progress Tracking,PS
+PS-REV,Revenues and Earnings,PS
+PS-REV-ACT,Actual Revenues and Forecast,PS
+PS-REV-CPR,Construction Progress Report,PS
+PS-REV-PLN-CAL,Costing,PS
+PS-REV-TRF,Transfer Prices and Decentralized Responsibility,PS
+PS-ST,Structures,PS
+PS-ST-INT,Interface to External Project Software,PS
+PS-ST-OPR,Operative Structures,PS
+PS-ST-OPR-NET,Network and Activity,PS
+PS-ST-OPR-PB,Project Builder,PS
+PS-ST-OPR-PPB,Project Planning Board,PS
+PS-ST-TMP,Templates,PS
+PS-ST-TMP-NET,Standard Network,PS
+PSM-EC,Expenditure Certification,PSM
+PSM-FA,Fund Accounting,PSM
+PSM-FG,Functions for U.S. Federal Government,PSM
+PSM-FG-PP,US Prompt Payment Act,PSM
+PSM-FG-TC,Central Cash Desk Procedure,PSM
+PSM-FM,Funds Management,PSM
+PSM-FM-BCS,Budget Control System,PSM
+PSM-FM-BCS-AC,Availability Control,PSM
+PSM-FM-BCS-BU,Budgeting,PSM
+PSM-FM-BL,Budgetary Ledger,PSM
+PSM-FM-BU,Budgeting and Availability Control,PSM
+PSM-FM-BU-CE,Unilateral and Reciprocal Cover Eligibility,PSM
+PSM-FM-CL,Closing Operations,PSM
+PSM-FM-IS,Information system,PSM
+PSM-FM-MD,Master Data,PSM
+PSM-FM-PO,Funds Management-Specific Postings,PSM
+PSM-FM-PO-CA,Cash Desk,PSM
+PSM-FM-UP,Actual Update and Commitment Update,PSM
+PSM-GM-GTE,Grantee Management,PSM
+PSM-GM-GTE-BU,Budgeting and Availability Control,PSM
+PSM-GM-GTE-GM,Grants Management - Specific Postings,PSM
+PSM-GM-GTE-MD,Master Data,PSM
+PSM-GM-GTE-UP,Actual Update and Commitment Update,PSM
+PSM-GM-GTR-UP,Actual Update and Commitment Update,PSM
+PSM-GPR,Government Procurement,PSM
+PT,Personnel Time Management,PT
+PT-EV-FO,Time Statement Form,PT
+PT-IN-WC,Work Center Integration with Logistics,PT
+PT-RC,Time Data Recording and Administration,PT
+PT-RC-AA,Attendances/Absences,PT
+PT-RC-IW,Time Tickets,PT
+PT-RC-TE,Personnel Time Events,PT
+PT-SP,Shift Planning,PT
+PT-SP-PS,Shift Planning for Public Sector,PT
+PY-AR,Argentina,PY
+PY-AT,Austria,PY
+PY-AT-FP-PJ,Payroll Journal,PY
+PY-AT-PS,Public Sector,PY
+PY-AU,Australia,PY
+PY-AU-FP-PJ,Payroll Journal,PY
+PY-AU-PS,Public Sector,PY
+PY-BE,Belgium,PY
+PY-BE-PS,�ffentlicher Dienst,PY
+PY-BR,Brazil,PY
+PY-BR-FP-PJ,Payroll Journal,PY
+PY-CA,Canada,PY
+PY-CA-FP-PJ,Payroll Journal,PY
+PY-CA-RP,Reporting,PY
+PY-CH,Switzerland,PY
+PY-CH-FP-PJ,Payroll Journal,PY
+PY-CH-PS,Public Sector,PY
+PY-CN,China,PY
+PY-CN-FP,Final Payroll Processing,PY
+PY-DE,Germany,PY
+PY-DE-BA,B2A: Business to Administration,PY
+PY-DE-CI,Construction Industry,PY
+PY-DE-FP-PJ,Payroll Journal,PY
+PY-DE-GR-PT,Integration with Time Management,PY
+PY-DE-NT-GR,Garnishment/Cession,PY
+PY-DE-NT-NI,Social Insurance,PY
+PY-DE-NT-TX,Tax,PY
+PY-DE-PS,Public Sector,PY
+PY-DE-PS-VA,Pension Administration,PY
+PY-DK,Denmark,PY
+PY-ES,Spain,PY
+PY-FI,Finland,PY
+PY-FR,France,PY
+PY-FR-FP-PJ,Payroll Journal,PY
+PY-FR-PS,�ffentlicher Dienst,PY
+PY-GB,United Kingdom,PY
+PY-GB-FP-PJ,Payroll Journal,PY
+PY-GB-PS,�ffentlicher Dienst,PY
+PY-HK,Hong Kong,PY
+PY-ID,Indonesia,PY
+PY-IE,Ireland,PY
+PY-IN,India,PY
+PY-IN-PS,INDIA PUBLIC SECTOR,PY
+PY-IT,Italy,PY
+PY-JP,Japan,PY
+PY-KR,Korea,PY
+PY-MX,Mexico,PY
+PY-MX-PS,Public Sector,PY
+PY-MX-RP,Reporting,PY
+PY-MY,Malaysia,PY
+PY-NL,The Netherlands,PY
+PY-NL-RP,Reporting,PY
+PY-NO,Norway,PY
+PY-NO-PS,Public Sector,PY
+PY-NPO,Non Profit Organizations,PY
+PY-NZ,New Zealand,PY
+PY-PH,Philippines,PY
+PY-PT,Portugal,PY
+PY-PT-PS,Public Sector Payroll,PY
+PY-RU,Russia,PY
+PY-SE,Sweden,PY
+PY-SE-FP,Subsequent Activities,PY
+PY-SG,Singapore,PY
+PY-SG-FP-PJ,Payroll Journal,PY
+PY-SG-PS,Public Sector,PY
+PY-TH,Thailand,PY
+PY-TW,Taiwan,PY
+PY-TW-FP-PJ,Payroll Journal,PY
+PY-US,USA,PY
+PY-US-FP-TP,Third Party Remittance,PY
+PY-US-GR-BI,Benefit Integration,PY
+PY-US-NT-TX-BSI,BSI,PY
+PY-US-PS,�ffentlicher Dienst,PY
+PY-US-RP,Reporting,PY
+PY-US-RP-TR,Tax Reporter,PY
+PY-VE,Venezuela,PY
+PY-XX,Payroll: General Parts,PY
+PY-XX-DT,Data Transfer,PY
+PY-XX-FO,Forms,PY
+PY-XX-GP,Payroll for Global Employees,PY
+PY-XX-IE,Interface to External Payroll Systems,PY
+PY-XX-OC,Off-Cycle,PY
+PY-XX-RS,Reuse Services for Country Development,PY
+PY-XX-TL,Tools,PY
+PY-ZA,South Africa,PY
+QM,Quality Management,QM
+QM-CA,Quality Certificates,QM
+QM-CNT,,QM
+QM-IM,Quality Inspection,QM
+QM-IM-RR,Results Recording,QM
+QM-IM-SM,Sample Management,QM
+QM-IM-UD,Inspection Lot Completion,QM
+QM-PT-BD,Basic Data,QM
+QM-PT-BD-CAT,Catalog,QM
+QM-PT-BD-ICH,Inspection Characteristic,QM
+QM-PT-BD-SPL,Samples and SPC,QM
+QM-PT-CP,Control Plan,QM
+QM-PT-FA,Failure Mode and Effects Analysis,QM
+QM-PT-IP,Inspection Planning,QM
+QM-PT-RP-SD,QM Control in Sales and Distribution,QM
+QM-QC-AQC,Active Quality Control,QM
+QM-QC-IS,Information System,QM
+QM-QN,Quality Notifications,QM
+QM-QN-NM-8D,QM 8D-Report Automotive,QM
+QM-QN-NT,Creating Quality Notifications,QM
+RE,Real Estate Management,RE
+RE-BD,Basic Data,RE
+RE-CO,Real Estate Controlling,RE
+RE-FX,Flexible Real Estate Management,RE
+RE-FX-AJ,Rent Adjustment,RE
+RE-FX-BD,Basic Data,RE
+RE-FX-BP,Business Partner,RE
+RE-FX-CN,Real Estate Contract,RE
+RE-FX-CNT,,RE
+RE-FX-CO,Real Estate Controlling,RE
+RE-FX-CP,Correspondence,RE
+RE-FX-IS,Information System,RE
+RE-FX-IT,Input Tax Treatment,RE
+RE-FX-LC-CZ,Real Estate Localization Czech Republic,RE
+RE-FX-LC-SK,Real Estate Slovakia,RE
+RE-FX-LM,Land Use Management,RE
+RE-FX-MI,Migration,RE
+RE-FX-MM,Third Party Management/COA,RE
+RE-FX-OR,Offer and Rental Request,RE
+RE-FX-RA,Rental Accounting,RE
+RE-FX-RS,Room Reservations and Seating Arrangements,RE
+RE-FX-SC,Service Charge Settlement,RE
+RE-FX-SR,Sales-Based Rent and Settlement,RE
+RE-IT,Input Tax Treatment,RE
+RE-RT-AO,Management of Interested Parties,RE
+RE-RT-RA,Rental Accounting,RE
+RE-RT-SC,Service Charge Settlement,RE
+RE-RT-SR,Sales-Based Settlement,RE
+SCM,Supply Chain Management,SCM
+SCM-BAS,SCM Basis,SCM
+SCM-BAS-DF,Cross-System and Cross-Partner Document Flow,SCM
+SCM-EM,Event Management,SCM
+SCM-EM-AS,Application System,SCM
+SCM-EWM-CNT,,SCM
+SD,Sales and Distribution,SD
+SD-BF,Basic Functions,SD
+SD-BF-AC,Availability Check,SD
+SD-BF-AC-SOA,Enterprise SOA,SD
+SD-BF-AS,Material Sorting,SD
+SD-BF-CM,Credit Management,SD
+SD-BF-CPE,CPE in SD,SD
+SD-BF-FG,Free Goods,SD
+SD-BF-PR,Pricing and Conditions,SD
+SD-BF-SMI,Supplier Managed Inventory,SD
+SD-BIL,Billing,SD
+SD-BIL-CNT,,SD
+SD-BIL-EM,Empties Management,SD
+SD-BIL-GF,Basic Functions,SD
+SD-BIL-IV-CP,Complaints Processing,SD
+SD-BIL-IV-PC,Payment Cards,SD
+SD-BIL-IV-SBI,Self-Billing Proced.,SD
+SD-BIL-IV-SM,Expense-Related Billing,SD
+SD-BIL-RB,Rebate Processing,SD
+SD-BIL-RB-ENH,Extended Rebate,SD
+SD-BIL-RB-PL,Pendulum List Indirect Sales,SD
+SD-CAS,Sales Support,SD
+SD-CAS-BD,Basic Data,SD
+SD-EDI,Electronic Data Interchange,SD
+SD-FT,Foreign Trade,SD
+SD-FT-PRO,Basic Functions,SD
+SD-IS-DC,Data Collection,SD
+SD-MD,Master Data,SD
+SD-MD-CM,Conditions,SD
+SD-MD-MM,Material Maintenance,SD
+SD-MD-MM-CS,Additional Material Functions,SD
+SD-POS,POS Interface,SD
+SD-POS-IN,POS Interface - Inbound,SD
+SD-POS-OUT,POS Interface - Outbound,SD
+SD-SLS,Sales,SD
+SD-SLS-API,"SD API Interface, LORD",SD
+SD-SLS-CNT,,SD
+SD-SLS-GF,Basic Functions,SD
+SD-SLS-OA-SCH,Customer Scheduling Agreement,SD
+SD-SLS-PLL,Part Load Lift Orders,SD
+SD-SLS-PLL-OBS,Remaining Beverage - Obsolete Objects,SD
+SD-SLS-QUT,Customer Inquiries / Quotations,SD
+SD-SLS-RE-SR,Sales Returns,SD
+SLL,Global Trade Services,SLL
+SLL-ECR,Electronic Compliance Reporting,SLL
+SLL-ITR-CNT,,SLL
+SLL-LEG,Global Trade Services,SLL
+SLL-LEG-CON-SPL,GTS: Sanctioned Party List Screening,SLL
+SLL-NFE,Nota Fiscal Eletronica (NF-e),SLL
+SLL-NFE-MGM,NF-e: Communication Management & Monitoring,SLL
+SRM,Supplier Relationship Management,SRM
+SRM-CAT,Catalogs,SRM
+SRM-EBP,Enterprise Buyer,SRM
+SRM-EBP-ADM,Enterprise/Business Partner Management,SRM
+SRM-EBP-ADM-ORG,Organizational Management,SRM
+SRM-EBP-ADM-USR,User Maintenance,SRM
+SRM-EBP-ADM-XBP,External Business Partner,SRM
+SRM-EBP-APM,Application Monitors,SRM
+SRM-EBP-BID,Bid Invitation,SRM
+SRM-EBP-CA,Cross-Application Functions,SRM
+SRM-EBP-CA-ATT,Attachments,SRM
+SRM-EBP-CA-DEX,Document Extensibility,SRM
+SRM-EBP-CA-NUM,SRM Configurable Line Item Numbering,SRM
+SRM-EBP-CA-PRS,Partner / Partner Screen,SRM
+SRM-EBP-CA-PWL,Pers�nlicher Arbeitsvorrat,SRM
+SRM-EBP-CA-SRH,Schnellsuche und erweiterte Suche,SRM
+SRM-EBP-CA-UI,User Interface/Templates,SRM
+SRM-EBP-CGS,Confirmation Goods/Service,SRM
+SRM-EBP-CMT,Content Management,SRM
+SRM-EBP-CON,Purchase Contract,SRM
+SRM-EBP-CRI,Cross-Industry Functions,SRM
+SRM-EBP-CUS,Customizing,SRM
+SRM-EBP-ESA,SRM Enterprise Services,SRM
+SRM-EBP-EXR,External Requirement,SRM
+SRM-EBP-FW,SRM Framework,SRM
+SRM-EBP-INB,Inbox,SRM
+SRM-EBP-INV,Invoicing,SRM
+SRM-EBP-LCA,Authoring Tool for Legal Contracts,SRM
+SRM-EBP-PD,Procurement Document Methods,SRM
+SRM-EBP-POR,Local Purchase Order,SRM
+SRM-EBP-PPS,Public-Sector Functions,SRM
+SRM-EBP-PRC,Procurement Card,SRM
+SRM-EBP-REP,Reporting,SRM
+SRM-EBP-RMS,Integration with SAP Records Management,SRM
+SRM-EBP-SHP,Shopping cart,SRM
+SRM-EBP-SOC,Sourcing,SRM
+SRM-EBP-TEC-ITS,ITS und Web Files,SRM
+SRM-EBP-TEC-MW,Middleware,SRM
+SRM-EBP-VE,Vendor Evaluation,SRM
+SRM-EBP-VL,Vendor List,SRM
+SRM-EBP-WFL,Workflow,SRM
+SRM-LOC,Localization - Country Versions,SRM
+SRM-ROS,Registration of Suppliers,SRM
+SRM-SUS,Supplier Self Services,SRM
+SV-ASA,ASAP (AcceleratedSAP),SV
+SV-ASA-ADD,ASAP Tools and Contents,SV
+SV-ASA-ML,Master Lists,SV
+SV-BO,Back Office Service Delivery,SV
+SV-CLD-ACT,,SV
+SV-SMG,Solution Manager,SV
+SV-SMG-ADM-DTM,Downtime/Work Mode Management,SV
+SV-SMG-ASU,Application-Specific Upgrade,SV
+SV-SMG-AUT,SAP Solution Manager Authorization,SV
+SV-SMG-BPR,Business Process Repository,SV
+SV-SMG-CCM-CDM,Custom Development Management Cockpit,SV
+SV-SMG-CM,Change Request Management,SV
+SV-SMG-DIA,Solution Manager Diagnostics,SV
+SV-SMG-ICO,Implementation Content,SV
+SV-SMG-IMP,Solution Manager Implementation,SV
+SV-SMG-IMP-DIS,Customizing Distribution,SV
+SV-SMG-INS,"Solution Manager Installation, Configuration and Upgrade",SV
+SV-SMG-LDB,Landscape Management,SV
+SV-SMG-LV,Landscape Verification for Solution Manager,SV
+SV-SMG-MAI,Maintenance Optimizer,SV
+SV-SMG-MON,Monitoring & Alerting,SV
+SV-SMG-MON-ALR-DIR,Alert/Metric Directory,SV
+SV-SMG-MON-BPM,Business Process Monitoring,SV
+SV-SMG-OP,Solution Directory,SV
+SV-SMG-PSM,Process Scheduling Management,SV
+SV-SMG-SDD,Service Data Download,SV
+SV-SMG-SER,SAP Support Services,SV
+SV-SMG-SER-ESR,Enterprise Support Report,SV
+SV-SMG-SUP,Service Desk/Incident Managment,SV
+SV-SMG-SVC,Solution Manager Service Connection Management,SV
+SV-SMG-SVD-SWB,Service Session Workbench,SV
+SV-SMG-SYS,Solution Manager System Landscape,SV
+SV-SMG-TWB,Test Management,SV
+SV-SMG-TWB-BCA,Business Process Change Analyzer,SV
+TR,Treasury,TR
+TR-CB,Cash Budget Management,TR
+WEC,Web Channel,WEC
+WEC-APP,Web Channel: Applications,WEC
+WEC-APP-BIL,Web Channel Billing,WEC
+WEC-APP-CI-REV,Web Channel Reviews & Ratings,WEC
+WEC-APP-COL,Web Channel Collaborative Software,WEC
+WEC-APP-KM,Web Channel Knowledge Management Integration,WEC
+WEC-APP-MKT,Web Channel Marketing,WEC
+WEC-APP-PAY,Web Channel: Basic Functions - Payment Method,WEC
+WEC-APP-PCT,Web Channel Product Catalog,WEC
+WEC-APP-SLS-CRM,WebChannel Sales using CRM Sales,WEC
+WEC-APP-SLS-ERP,WebChannel Sales using ERP-SD,WEC
+WEC-APP-SLS-OUT,Web Channel Sales Checkout,WEC
+WEC-APP-SRV-COM,Web Channel Complaints and Returns,WEC
+WEC-APP-SRV-INB,Web Channel Installed Base,WEC
+WEC-APP-SRV-SCO,Web Channel Service Contract,WEC
+WEC-APP-SRV-SRE,Web Channel Service Request Management,WEC
+WEC-APP-UM,Web Channel: User Management and Customer Profile,WEC
+WEC-APP-UM-ERP,Web Channel UM ERP aspects,WEC
+WEC-IS,Web Channel Industry-Specific Components,WEC
+WEC-IS-R,Web Channel Retail,WEC
+WEC-WCB,Web Channel Builder,WEC
+WP,Obsolete Product: mySAP.com Workplace,WP
+WP-WSR,Workplace Server,WP
+WP-WSR-URL,URL Generation,WP
+XAP-OSP,Office Suite Program,XAP

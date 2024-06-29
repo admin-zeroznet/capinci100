@@ -1,0 +1,15 @@
+code,name,atype
+SAP GUI,,Transactional
+Web Dynpro,,Transactional
+Transactional,,Transactional
+Transactional & Analytical,,Transactional
+Fact sheet,,Transactional
+Transactional & Fact sheet,,Transactional
+Analytical,,Analytical
+Analytical & Web Dynpro,,Analytical
+Analytical & BW Query used,,Analytical
+Reuse Component,,Analytical
+Transactional & Reuse Component,,Analytical
+Analytical & Fact sheet,,Analytical
+Web Client UI,,Analytical
+Analytical & Web Dynpro & BW Query used,,Analytical

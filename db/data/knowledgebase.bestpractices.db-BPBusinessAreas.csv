@@ -1,0 +1,35 @@
+lob_code,code,name
+AP,AP01,Process Management and Integration
+PM,PM01,Maintenance Management
+DB,DB01,Enterprise Information Management
+FI,FI01,Accounting and Financial Close
+FI,FI02,Advanced Accounting and Financial Close
+FI,FI03,Advanced Financial Operations
+FI,FI04,Cost Management and Profitability Analysis
+FI,FI05,Enterprise Risk and Compliance
+FI,FI06,Financial Operations
+FI,FI07,Real Estate Management
+FI,FI08,Treasury Management
+HR,HR01,Core HR and Time Recording
+IT,IT01,Administration and Usability
+PP,PP01,Manufacturing Operations
+PP,PP02,Manufacturing Options
+PP,PP03,Production Engineering
+PP,PP04,Production Planning
+PP,PP05,Quality Management
+RD,RD01,Product Compliance
+RD,RD02,Product Engineering
+RD,RD03,Product Lifecycle Management
+SD,SD01,Order and Contract Management
+CS,CS01,Service Master Data & Agreement Management
+MM,MM01,Central Procurement
+MM,MM02,Invoice Management
+MM,MM03,Operational Procurement
+MM,MM04,Procurement Analytics
+MM,MM05,Sourcing and Contract Management
+MM,MM06,Supplier Management
+SC,SC01,Advanced Order Promising
+SC,SC02,Inventory
+SC,SC03,Logistics Material Identification
+SC,SC04,Order Promising
+SC,SC05,Warehousing
